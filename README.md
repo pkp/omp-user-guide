@@ -1,4 +1,4 @@
-My Awesome Book
+OMP 1.2 User Guide
 =======
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+The OMP 1.2 User Guide provides context-sensitive help from within the application.
