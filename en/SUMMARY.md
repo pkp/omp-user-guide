@@ -2,6 +2,12 @@
 
 * [introduction](README.md)
 * [Chapter 1: User Profile](chapter1.md)
+    * [Identity](chapter1/identity.md)
+    * [Contact](chapter1/contact.md)
+    * [Roles](chapter1/roles.md)
+    * [Public](chapter1/public.md)
+    * [Password](chapter1/password.md)
+    * [Notification](chapter1/notification.md)
 * [Chapter 2: ](chapter2.md)
 * [Chapter 3: ](chapter3.md)
 * [Chapter 4: ](chapter4.md)
