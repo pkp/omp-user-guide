@@ -1,3 +1,5 @@
-# Chapter 1
+# Chapter 1: User Profile
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+Blah blah blah.
+
+
