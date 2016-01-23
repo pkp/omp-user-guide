@@ -1,6 +1,6 @@
 # Table of Contents
 
-* [introduction](README.md)
+* [Introduction](README.md)
 * [Chapter 1: User Profile](chapter1/intro.md)
     * [Identity](chapter1/identity.md)
     * [Contact](chapter1/contact.md)
