@@ -1,4 +1,4 @@
 # Chapter 1: User Profile
 ## Public
 
-Blah blah blah.
+The Public tab allows you to add more details about yourself, including a photograph, a biographical statement, etc.
