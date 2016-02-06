@@ -11,6 +11,7 @@
     * [Password](chapter1/password.md)
     * [Notification](chapter1/notification.md)
 * [Chapter 2: Tasks](chapter2/intro.md)
+    *  [Tasks](chapter2/tasks.md)
 * [Chapter 3: Dashboard](chapter3/intro.md)
 * [Chapter 4: Editorial Workflow](chapter4/intro.md)
 * [Chapter 5: Settings](chapter5/intro.md)
