@@ -17,6 +17,7 @@
     * [All Active](chapter3/all-active.md)
     * [Archives](chapter3/archives)
     * [Catalog](chapter3/catalog)
+        *  [New Catalog Entry](chapter3/catalog/new-catalog-entry)
     * [Feature](chapter3/feature)
 * [Chapter 4: Editorial Workflow](chapter4/intro.md)
 * [Chapter 5: Settings](chapter5/intro.md)
