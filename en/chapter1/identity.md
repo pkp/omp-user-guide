@@ -1,4 +1,4 @@
 # Chapter 1: User Profile
 ## Identity
 
-Blah blah blah.
+The Identity tab provides additional data fields to describe yourself.
