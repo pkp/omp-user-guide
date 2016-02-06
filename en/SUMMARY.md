@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
 * [Chapter 1: User Profile](chapter1/intro.md)
+    * [Register](chapter1/register.md)
     * [Identity](chapter1/identity.md)
     * [Contact](chapter1/contact.md)
     * [Roles](chapter1/roles.md)
