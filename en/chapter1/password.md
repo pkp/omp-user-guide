@@ -1,4 +1,4 @@
 # Chapter 1: User Profile
 ## Password
 
-Blah blah blah.
+The Password tab allows you to change your password.
