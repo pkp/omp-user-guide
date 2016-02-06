@@ -1,4 +1,4 @@
 # Chapter 2: Tasks
 ## Introduction
 
-Blah blah blah.
+This chapter describes tasks.
