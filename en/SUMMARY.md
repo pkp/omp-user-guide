@@ -45,7 +45,7 @@
             * [Delete](chapter4/submission/submission-files/delete.md)
             * [Download All Files](chapter4/submission/submission-files/download-all-files.md)
         * [Pre-Review Discussion](chapter4/submission/pre-review-discussion.md)
-            * [Add Discussion](chapter4/submission/add-discussion.md)
+            * [Add Discussion](chapter4/submission/pre-review-discussion/add-discussion.md)
         * [Decisions](chapter4/submission/decisions.md)
             * [Expedite Submission](chapter4/submission/decisions/expedite-submission.md)
             * [Send to Internal Review](chapter4/submission/decisions/send-to-internal-review.md)
