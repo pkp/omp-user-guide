@@ -1,2 +1,3 @@
-# Search Results
+#Chapter 3: Dashboard
+## Search Results
 
