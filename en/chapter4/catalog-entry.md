@@ -1,2 +1,3 @@
-# Catalog Entry
+# Chapter 4: Editorial Workflow
+## Catalog Entry
 
