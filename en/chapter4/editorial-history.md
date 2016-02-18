@@ -1,2 +1,3 @@
-# Editorial History
+# Chapter 4: Editorial Workflow
+## Editorial History
 
