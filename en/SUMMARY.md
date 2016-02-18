@@ -14,7 +14,7 @@
    * [Tasks](chapter2/tasks.md)
 * [Chapter 3: Dashboard](chapter3/intro.md)
    * [Submissions](chapter3/submissions.md)
-   * [All Active](chapter3/all-active.md)
+   * [All Active](chapter3/all-activemd.md)
    * [Archives](chapter3/archives)
    * [Catalog](chapter3/catalog)
        * [New Catalog Entry](chapter3/catalog/new-catalog-entry)
