@@ -17,7 +17,7 @@
    * [All Active](chapter3/all-activemd.md)
    * [Archives](chapter3/archives.md)
    * [Catalog](chapter3/catalog.md)
-       * [New Catalog Entry](chapter3/catalog/new-catalog-entry)
+       * [New Catalog Entry](chapter3/catalog/new-catalog-entry.md)
        * [Homepage](chapter3/catalog/homepage)
        * [Category](chapter3/catalog/category)
        * [Series](chapter3/catalog/series)
