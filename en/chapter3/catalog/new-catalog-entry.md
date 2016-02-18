@@ -1,2 +1,3 @@
-# New Catalog Entry
+#Chapter 3: Dashboard
+## New Catalog Entry
 
