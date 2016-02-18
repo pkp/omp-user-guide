@@ -1,2 +1,3 @@
-# Spotlight
+#Chapter 3: Dashboard
+## Spotlight
 
