@@ -22,7 +22,7 @@
        * [Category](chapter3/catalog/category.md)
        * [Series](chapter3/catalog/series.md)
        * [Spotlight](chapter3/catalog/spotlight.md)
-       * [Search Results](chapter3/catalog/search-results)
+       * [Search Results](chapter3/catalog/search-results.md)
    * [Feature](chapter3/feature.md)
 * [Chapter 4: Editorial Workflow](chapter4/intro.md)
    * [Catalog Entry](chapter4/catalog-entry.md)
