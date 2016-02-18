@@ -1,2 +1,3 @@
-# Download All Files
+# Chapter 4: Editorial Workflow
+## Download All Files
 
