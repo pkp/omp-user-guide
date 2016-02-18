@@ -19,7 +19,7 @@
    * [Catalog](chapter3/catalog.md)
        * [New Catalog Entry](chapter3/catalog/new-catalog-entry.md)
        * [Homepage](chapter3/catalog/homepage.md)
-       * [Category](chapter3/catalog/category)
+       * [Category](chapter3/catalog/category.md)
        * [Series](chapter3/catalog/series)
        * [Spotlight](chapter3/catalog/spotlight)
        * [Search Results](chapter3/catalog/search-results)
