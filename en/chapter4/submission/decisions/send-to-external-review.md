@@ -1,2 +1,3 @@
-# Send to External Review
+# Chapter 4: Editorial Workflow
+## Send to External Review
 
