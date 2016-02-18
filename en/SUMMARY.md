@@ -15,7 +15,7 @@
 * [Chapter 3: Dashboard](chapter3/intro.md)
    * [Submissions](chapter3/submissions.md)
    * [All Active](chapter3/all-activemd.md)
-   * [Archives](chapter3/archives)
+   * [Archives](chapter3/archives.md)
    * [Catalog](chapter3/catalog)
        * [New Catalog Entry](chapter3/catalog/new-catalog-entry)
        * [Homepage](chapter3/catalog/homepage)
