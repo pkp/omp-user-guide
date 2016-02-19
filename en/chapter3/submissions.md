@@ -3,11 +3,11 @@
 
 This page provides information about submissions. 
 
-Unassigned includes new submissions that do not yet have an editor or section editor. These typically need immediate attention by an editor.
+**Unassigned** includes new submissions that do not yet have an editor or section editor. These typically need immediate attention by an editor.
 
-My Assigned includes submissions that have come in and have been assigned to you.
+**My Assigned** includes submissions that have come in and have been assigned to you.
 
-My Authored include your own submissions to the press.
+**My Authored** include your own submissions to the press.
 
 Each submission is listed with its unique identification number, its title, the initials of the assigned editor, and the stage that the submission is currently in (submission, review, copyediting, production).
 
