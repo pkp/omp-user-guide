@@ -9,6 +9,8 @@ My Assigned includes submissions that have come in and have been assigned to you
 
 My Authored include all of your own submissions to the press.
 
+Each submission is listed with its unique identification number, its title, the initials of the assigned editor, and the stage that the submission is currently in (submission, review, copyediting, production).
+
 The New Submission button allows you to start a new submission to the press.
 
 
