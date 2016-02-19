@@ -13,6 +13,8 @@ Each submission is listed with its unique identification number, its title, the 
 
 In front of each submission is a toggle, which allows you to see links to delete the submission or to get more information, including its history and notes.
 
+Each section provides a search tool, available by selecting the magnifying glass icon. Searching is available by title or author. You can limit searches to specific stages.
+
 The New Submission button allows you to start a new submission to the press.
 
 
