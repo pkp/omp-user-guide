@@ -71,7 +71,7 @@
        * [Review Rounds](chapter4/external-review/review-rounds.md)
        * [Review Files](chapter4/external-review/review-files.md)
            * [Upload/Select](chapter4/external-review/review-files/upload-select.md)
-           * [More Information](chapter4/external-review/more-information.md)
+           * [More Information](chapter4/external-review/review-files/more-information.md)
            * [Delete](chapter4/external-review/delete.md)
        * [Reviewers](chapter4/external-review/reviewers.md)
            * [Add Reviewer](chapter4/external-review/reviewers/add-reviewer.md)
