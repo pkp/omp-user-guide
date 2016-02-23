@@ -56,7 +56,7 @@
        * [Review Rounds](chapter4/internal-review/review-rounds.md)
        * [Review Files](chapter4/internal-review/review-files.md)
            * [Upload/Select](chapter4/internal-review/review-files/upload-select.md)
-           * [More Information](chapter4/internal-review/more-information.md)
+           * [More Information](chapter4/internal-review/review-files/more-information.md)
            * [Delete](chapter4/internal-review/delete.md)
        * [Reviewers](chapter4/internal-review/reviewers.md)
            * [Add Reviewer](chapter4/internal-review/reviewers/add-reviewer.md)
