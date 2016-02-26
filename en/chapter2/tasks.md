@@ -1,6 +1,6 @@
 # Chapter 2: Tasks
 ## Tasks
-Tasks provide a quick reference for outstanding assignments.
+Tasks provide a quick reference for automatic updates and to identify outstanding assignments.
 
 New tasks are in bold font, read tasks are in normal font.
 
