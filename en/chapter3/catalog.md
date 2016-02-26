@@ -3,7 +3,7 @@
 
 This page allows you to manage your press catalog. 
 
-The press catalog is the list of all published content on the site.
+The press catalog is the public list of all published content on the site.
 
 From this page, you can:
 
