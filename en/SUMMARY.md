@@ -103,7 +103,7 @@
    * [Statistics](chapter6/statistics.md)
 * [Chapter 8: Administering](chapter8/intro.md)
    * [Site Management](chapter8/site-management.md)
-       * [Hosted Presses](chapter7/site-management/hosted-presses.md)
+       * [Hosted Presses](chapter8/site-management/hosted-presses.md)
            * [Create Presse](chapter7/site-management/hosted-presses/create-press.md)
            * [Edit](chapter7/site-management/hosted-presses/edit.md)
            * [Remove](chapter7/site-management/hosted-presses/remove.md)
