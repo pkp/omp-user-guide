@@ -15,7 +15,7 @@ To list the work in the catalog, check the box for "Create a catalog entry for t
 
 **Audience**: Use the drop down menus to select relevant audiences for this work. These choices are based on the ONIX book publishing standard and can help with sales and marketing.
 
-
+**Representatives**: Indicate any agents or suppliers involved in the publication of this work. Use the Add Representative to add new ones.
 
 
 
