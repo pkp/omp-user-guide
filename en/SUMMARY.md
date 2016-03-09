@@ -104,7 +104,7 @@
    * [Sponsor](chapter6/press/sponsor.md)
    * [Appearance](chapter6/website/appearance.md)
    * [Information](chapter6/website/information.md)
-   * [Languages](../chapter6/website/languages.md)
+   * [Languages](chapter6/website/languages.md)
    * [Plugins](chapter6/website/plugins.md)
    * [Announcements](chapter6/website/announcements.md)
    * [Navigation](chapter6/website/navigation.md)
