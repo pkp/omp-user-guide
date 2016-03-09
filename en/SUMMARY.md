@@ -19,6 +19,7 @@
 * [Chapter 4: Catalog](chapter4/catalog.md)
    * [New Catalog Entry](chapter4/catalog/new-catalog-entry.md)
        * Catalog
+       * Monograph
    * [Homepage](chapter4/catalog/homepage.md)
    * [Category](chapter4/catalog/category.md)
    * [Series](chapter4/catalog/series.md)
