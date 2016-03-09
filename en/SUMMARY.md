@@ -32,7 +32,7 @@
        * [Add a File](chapter5/submission-library/add-a-file.md)
        * [View Document Library](chapter5/submission-library/view-document-library.md)
    * [Participants](chapter5/participants.md)
-       * [Add](chapter4/participants/add.md)
+       * [Add](chapter5/participants/add.md)
    * [Submission](chapter4/submission.md)
        * [Submission Files](chapter4/submission/submission-files.md)
            * [Upload File](chapter4/submission/submission-files/upload-file.md)
