@@ -102,7 +102,7 @@
    * [Import/Export](chapter6/import-export.md)
    * [Statistics](chapter6/statistics.md)
 * [Chapter 8: Administering](chapter8/intro.md)
-   * [Site Management](chapter7/site-management.md)
+   * [Site Management](chapter8/site-management.md)
        * [Hosted Presses](chapter7/site-management/hosted-presses.md)
            * [Create Presse](chapter7/site-management/hosted-presses/create-press.md)
            * [Edit](chapter7/site-management/hosted-presses/edit.md)
