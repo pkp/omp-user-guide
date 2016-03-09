@@ -1,4 +1,4 @@
-#Chapter 3: Dashboard
+#Chapter 4: Catalog
 ## Catalog
 
 This page allows you to manage your press catalog. 
