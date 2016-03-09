@@ -76,7 +76,7 @@
            * [Edit](chapter5/external-review/reviewers/edit.md)
            * [Unassign Reviewer](chapter5/external-review/reviewers/unassign-reviewer.md)
        * [Revisions](chapter5/external-review/revisions.md)
-           * [Upload File](chapter4/external-review/revisions/upload-file.md)
+           * [Upload File](chapter5/external-review/revisions/upload-file.md)
        * [Review Discussions](chapter4/external-review/review-discussions.md)
    * [Copyediting](chapter4/copyediting.md)
        * [Draft Files](chapter4/copyediting/draft-files.md)
