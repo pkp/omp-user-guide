@@ -18,7 +18,7 @@
    * [Archives](chapter3/archives.md)
 * [Chapter 4: Catalog](chapter4/catalog.md)
    * [New Catalog Entry](chapter4/catalog/new-catalog-entry.md)
-       * Catalog
+       * [Catalog](chapter4/catalog/catalog.md)
        * [Monograph](chapter4/catalog/monograph.md)
    * [Homepage](chapter4/catalog/homepage.md)
    * [Category](chapter4/catalog/category.md)
