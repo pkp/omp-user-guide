@@ -13,7 +13,7 @@ Select the "Enable this press to appear publicly on the site" checkbox to make t
 
 You may wish to keep it unchecked while you are developing the site.
 
-**Masthead**: The Masthead should contain a list of editors, managing directors, and other individuals associated with the press. Information entered here will appear in About the Press.
+**Masthead**: The Masthead typically includes a list of editors, managing directors, and other individuals associated with the press. Information entered here will appear in About the Press.
 
 **Mailing Address**: The physical location and mailing address of the press.
 
