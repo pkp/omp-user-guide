@@ -11,7 +11,7 @@ From here, you can add the Category Details:
 
 **Parent Category**: Use this drop down if the new category is a subset of an existing category (e.g., Economics > Microeconomics).
 
-**Path**: Enter a term that will allow for a URL for your category (e.g., business).
+**Path**: Enter a single word term (e.g., business or business-and-economics, etc.) that will create a URL for your category.
 
 **Description**: Add a brief description of the category.
 
