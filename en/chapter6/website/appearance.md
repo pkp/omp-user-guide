@@ -39,3 +39,5 @@ For example, if you enter 3 *page links*, a list of 500 items would be navigated
 
 They will be automatically resized when they are larger than these settings but will not be enlarged if they are smaller. The images will never be stretched to fit these dimensions.
 
+Select the Save button to record your changes.
+
