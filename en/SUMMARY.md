@@ -92,7 +92,7 @@
            * [Upload Files](chapter4/production/production-ready-files/upload-file.md)
        * [Production Discussion](chapter5/production/production-discussion.md)
            * [Add](chapter4/production/production-discussion/add.md)
-       * [Production Formats](chapter4/production/production-formats.md)
+       * [Production Formats](chapter5/production/production-formats.md)
            * [Add Production Format](chapter4/production/production-formats/add-production-format.md)
 * [Chapter 6: Settings](chapter6/intro.md)
    * [Masthead](chapter6/press/masthead.md)
