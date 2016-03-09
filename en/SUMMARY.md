@@ -86,7 +86,7 @@
            * [Add](chapter5/copyediting/copyediting-discussions/add.md)
        * [Copyedited](chapter5/copyediting/copyedited.md)
            * [Upload/Select](chapter5/copyediting/copyedited/upload-select.md)
-       * [Send to Production](chapter4/copyediting/send-to-production.md)
+       * [Send to Production](chapter5/copyediting/send-to-production.md)
    * [Production](chapter4/production.md)
        * [Production Ready Files](chapter4/production/production-ready-files.md)
            * [Upload Files](chapter4/production/production-ready-files/upload-file.md)
