@@ -119,7 +119,7 @@
            * [Create Press](chapter8/site-management/hosted-presses/create-press.md)
            * [Edit](chapter8/site-management/hosted-presses/edit.md)
            * [Remove](chapter8/site-management/hosted-presses/remove.md)
-           * [Settings Wizard](chapter7/site-management/hosted-presses/settings-wizard.md)
+           * [Settings Wizard](chapter8/site-management/hosted-presses/settings-wizard.md)
    * [Administrative Functions](chapter8/administrative-functions.md)
        * [System Information](chapter8/administrative-functions/system-information.md)
        * [Expire User Sessions](chapter8/administrative-functions/expire-user-sessions.md)
