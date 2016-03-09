@@ -3,8 +3,8 @@
 
 The My Queue page provides access to the most important submissions in the press.
 
-**Unassigned** includes all submissions that require an editor.
+**Unassigned** includes all submissions that need an editor.
 
 **My Assigned** includes all submissions that you are responsible for editing.
 
-**My Authored** includes all of the submissions you have authored for the press.
+**My Authored** includes all submissions you have authored for the press.
