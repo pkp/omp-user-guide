@@ -13,7 +13,7 @@
 * [Chapter 2: Tasks](chapter2/intro.md)
    * [Tasks](chapter2/tasks.md)
 * [Chapter 3: Submissions](chapter3/intro.md)
-   * [My Queue](chapter3/submissions.md)
+   * [My Queue](chapter3/my-queue.md)
    * [All Active](chapter3/all-active.md)
    * [Archives](chapter3/archives.md)
    * [Feature](chapter3/feature.md)
