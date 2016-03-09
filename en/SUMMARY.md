@@ -98,7 +98,7 @@
            * [Add](chapter4/production/production-discussion/add.md)
        * [Production Formats](chapter4/production/production-formats.md)
            * [Add Production Format](chapter4/production/production-formats/add-production-format.md)
-* [Chapter 7: Tools](chapter6/intro.md)
+* [Chapter 7: Tools](chapter7/intro.md)
    * [Import/Export](chapter6/import-export.md)
    * [Statistics](chapter6/statistics.md)
 * [Chapter 8: Administering](chapter8/intro.md)
