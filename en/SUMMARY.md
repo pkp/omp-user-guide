@@ -84,7 +84,7 @@
        * [Copyediting Discussions](chapter5/copyediting/copyediting-discussions.md)
            * [Order](chapter5/copyediting/copyediting-discussions/order.md)
            * [Add](chapter5/copyediting/copyediting-discussions/add.md)
-       * [Copyedited](chapter4/copyediting/copyedited.md)
+       * [Copyedited](chapter5/copyediting/copyedited.md)
            * [Upload/Select](chapter4/copyediting/copyedited/upload-select.md)
        * [Send to Production](chapter4/copyediting/send-to-production.md)
    * [Production](chapter4/production.md)
