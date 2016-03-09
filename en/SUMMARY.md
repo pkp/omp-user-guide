@@ -139,4 +139,5 @@
    * [Request](chapter10/request.md)
    * [Guidelines](chapter10/guidelines.md)
    * [Download & Review](chapter10/download-and-review.md)
+   * Completion
 
