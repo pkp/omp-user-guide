@@ -109,6 +109,7 @@
    * [Appearance](chapter6/website/appearance.md)
    * [Information](chapter6/website/information.md)
    * [Languages](../chapter6/website/languages.md)
+   * Plugins
 * [Chapter 7: Tools](chapter7/intro.md)
    * [Import/Export](chapter7/import-export.md)
    * [Statistics](chapter7/statistics.md)
