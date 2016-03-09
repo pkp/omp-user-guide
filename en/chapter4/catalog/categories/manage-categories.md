@@ -19,4 +19,4 @@ From here, you can add the Category Details:
 
 **Cover Image**: If you wish to add an image for your category, use this file upload tool.
 
-Select the OK button to save your changes.
+Select the OK button to save your changes.xx
