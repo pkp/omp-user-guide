@@ -1,2 +1,3 @@
-# Masthead
+# Chapter 6: Settings
+## Masthead
 
