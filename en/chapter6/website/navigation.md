@@ -1,2 +1,3 @@
-# Navigation
+# Chapter 6: Settings
+## Navigation
 
