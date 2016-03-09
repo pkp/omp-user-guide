@@ -25,6 +25,12 @@ From here, you can add the series details:
 
 ISSNs are available for both online and print versions of your publications.
 
-**Order of Monographs**: 
+**Order of Monographs**: Use this drop down to choose how the books in the series will be displayed (i.e., alphabetically, chronologically, etc.).
+
+**Categories**: Use this menu to associate this work with a category.
+
+**Series Editor**: Use this list to associate this work with a series editor.
+
+
 
 
