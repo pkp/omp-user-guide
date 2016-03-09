@@ -74,7 +74,7 @@
            * [History](chapter5/external-review/reviewers/history.md)
            * [Email](chapter5/external-review/reviewers/email.md)
            * [Edit](chapter5/external-review/reviewers/edit.md)
-           * [Unassign Reviewer](chapter4/external-review/reviewers/unassign-reviewer.md)
+           * [Unassign Reviewer](chapter5/external-review/reviewers/unassign-reviewer.md)
        * [Revisions](chapter4/external-review/revisions.md)
            * [Upload File](chapter4/external-review/revisions/upload-file.md)
        * [Review Discussions](chapter4/external-review/review-discussions.md)
