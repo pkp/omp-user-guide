@@ -64,7 +64,7 @@
            * [Upload File](chapter5/internal-review/revisions/upload-file.md)
        * [Review Discussions](chapter5/internal-review/review-discussions.md)
    * [External Review](chapter5/external-review.md)
-       * [Review Rounds](chapter4/external-review/review-rounds.md)
+       * [Review Rounds](chapter5/external-review/review-rounds.md)
        * [Review Files](chapter4/external-review/review-files.md)
            * [Upload/Select](chapter4/external-review/review-files/upload-select.md)
            * [More Information](chapter4/external-review/review-files/more-information.md)
