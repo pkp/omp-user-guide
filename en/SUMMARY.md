@@ -47,7 +47,7 @@
            * [Send to Internal Review](chapter5/submission/decisions/send-to-internal-review.md)
            * [Send to External Review](chapter5/submission/decisions/send-to-external-review.md)
            * [Accept Submission](chapter5/submission/decisions/accept-submission.md)
-           * [Decline Submission](chapter4/submission/decisions/decline-submission.md)
+           * [Decline Submission](chapter5/submission/decisions/decline-submission.md)
    * [Internal Review](chapter4/internal-review.md)
        * [Review Rounds](chapter4/internal-review/review-rounds.md)
        * [Review Files](chapter4/internal-review/review-files.md)
