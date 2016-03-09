@@ -98,7 +98,7 @@
            * [Add](chapter4/production/production-discussion/add.md)
        * [Production Formats](chapter4/production/production-formats.md)
            * [Add Production Format](chapter4/production/production-formats/add-production-format.md)
-* [Chapter 5: Settings](chapter5/intro.md)
+* [Chapter 6: Settings](chapter5/intro.md)
    * [Press](chapter5/press.md)
        * [Masthead](chapter5/press/masthead.md)
        * [Contact](chapter5/press/contact.md)
