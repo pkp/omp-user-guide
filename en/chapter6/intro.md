@@ -1,4 +1,4 @@
 # Chapter 6: Settings
 ## Introduction
 
-Blah blah blah.
+This chapter provides an overview of the different settings and configuration options available when setting up a press.
