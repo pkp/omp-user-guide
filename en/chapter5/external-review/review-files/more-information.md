@@ -1,2 +1,3 @@
-# More Information
+# Chapter 5: Editorial Workflow
+## More Information
 
