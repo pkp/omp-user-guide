@@ -1,4 +1,4 @@
-# Chapter 3: Dashboard
+# Chapter 3: Submissions
 ## Introduction
 
-The dashboard provides a quick overview of relevant activities in your press.
+The Submissions page provides a quick overview of relevant activities in your press.
