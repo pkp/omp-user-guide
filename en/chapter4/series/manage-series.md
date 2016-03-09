@@ -33,6 +33,8 @@ ISSNs are available for both online and print versions of your publications.
 
 **Path**: Enter a single word term (e.g., business or business-and-economics, etc.) that will create a URL for your series.
 
+Select the **Save** button to save your changes.
+
 
 
 
