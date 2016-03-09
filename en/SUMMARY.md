@@ -100,7 +100,6 @@
            * [Add Production Format](chapter4/production/production-formats/add-production-format.md)
 * [Chapter 6: Settings](chapter6/intro.md)
    * [Masthead](chapter6/press/masthead.md)
-       * contact
 * [Chapter 7: Tools](chapter7/intro.md)
    * [Import/Export](chapter7/import-export.md)
    * [Statistics](chapter7/statistics.md)
