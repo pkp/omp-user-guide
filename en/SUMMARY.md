@@ -78,7 +78,7 @@
        * [Revisions](chapter5/external-review/revisions.md)
            * [Upload File](chapter5/external-review/revisions/upload-file.md)
        * [Review Discussions](chapter5/external-review/review-discussions.md)
-   * [Copyediting](chapter4/copyediting.md)
+   * [Copyediting](chapter5/copyediting.md)
        * [Draft Files](chapter4/copyediting/draft-files.md)
            * [Upload/Select](chapter4/copyediting/draft-files/upload-select.md)
        * [Copyediting Discussions](chapter4/copyediting/copyediting-discussions.md)
