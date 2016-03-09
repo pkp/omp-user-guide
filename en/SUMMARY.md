@@ -115,7 +115,6 @@
    * [Navigation](chapter6/website/navigation.md)
    * [Components](chapter6/workflow/components.md)
    * [press3](chapter6/press3.md)
-   * [test3.md](press3/chapter6/test3.md)
 * [Chapter 7: Tools](chapter7/intro.md)
    * [Import/Export](chapter7/import-export.md)
    * [Statistics](chapter7/statistics.md)
