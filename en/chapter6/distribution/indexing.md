@@ -9,3 +9,5 @@
 
 The [PKP Index](http://index.pkp.sfu.ca) is one such repository that will help you share your content with the world.
 
+Select the **Save** button to record any changes.
+
