@@ -1,4 +1,4 @@
-# Chapter 7: Tools
+# Chapter 6: Settings
 ## Introduction
 
 Blah blah blah.
