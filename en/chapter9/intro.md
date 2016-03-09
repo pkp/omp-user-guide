@@ -1,4 +1,4 @@
-# Chapter 9: Reviewing
+# Chapter 10: Reviewing
 ## Introduction
 
 Blah blah blah.
