@@ -114,7 +114,6 @@
    * [Announcements](chapter6/website/announcements.md)
    * [Navigation](chapter6/website/navigation.md)
    * [Components](chapter6/workflow/components.md)
-   * [Press](chapter6/press.md)
 * [Chapter 7: Tools](chapter7/intro.md)
    * [Import/Export](chapter7/import-export.md)
    * [Statistics](chapter7/statistics.md)
