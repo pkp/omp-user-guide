@@ -107,7 +107,7 @@
    * [Categories](chapter6/press/categories.md)
    * [Sponsor](chapter6/press/sponsor.md)
    * [Appearance](chapter6/website/appearance.md)
-   * Information
+   * [Information](chapter6/website/information.md)
 * [Chapter 7: Tools](chapter7/intro.md)
    * [Import/Export](chapter7/import-export.md)
    * [Statistics](chapter7/statistics.md)
