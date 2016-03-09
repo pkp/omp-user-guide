@@ -1,4 +1,4 @@
-# Chapter 5: Settings
+# Chapter 5: Editorial Workflow
 ## Introduction
 
 Blah blah blah.
