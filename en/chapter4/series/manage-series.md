@@ -21,6 +21,10 @@ From here, you can add the series details:
 
 **Restricted**: ???
 
-**ISSN**:  
+**ISSN**: The International Standard Serial Number identifies periodical publications, including electronic serials. A number can be obtained from the [ISSN web site](http://www.issn.org/).
+
+ISSNs are available for both online and print versions of your publications.
+
+**Order of Monographs**: 
 
 
