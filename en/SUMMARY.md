@@ -42,7 +42,7 @@
            * [Download All Files](chapter5/submission/submission-files/download-all-files.md)
        * [Pre-Review Discussion](chapter5/submission/pre-review-discussion.md)
            * [Add Discussion](chapter5/submission/pre-review-discussion/add-discussion.md)
-       * [Decisions](chapter4/submission/decisions.md)
+       * [Decisions](chapter5/submission/decisions.md)
            * [Expedite Submission](chapter4/submission/decisions/expedite-submission.md)
            * [Send to Internal Review](chapter4/submission/decisions/send-to-internal-review.md)
            * [Send to External Review](chapter4/submission/decisions/send-to-external-review.md)
