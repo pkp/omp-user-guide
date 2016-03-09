@@ -1,2 +1,3 @@
-# Clear Template Cache
+# Chapter 8: Administering
+## Clear Template Cache
 
