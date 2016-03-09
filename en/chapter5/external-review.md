@@ -1,3 +1,3 @@
-# Chapter 4: Editorial Workflow
+# Chapter 5: Editorial Workflow
 ## External Review
 
