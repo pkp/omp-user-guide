@@ -13,7 +13,7 @@ The Submissions checkbox will enable the language for author submissions.
 
 The Forms checkbox will enable the language in all of the system's forms.
 
-*This needs more description.*
+*The section above needs more description.*
 
 If a language you wish to work with is missing, select the *Install Locale* link.
 
