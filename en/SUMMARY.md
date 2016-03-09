@@ -80,7 +80,7 @@
        * [Review Discussions](chapter5/external-review/review-discussions.md)
    * [Copyediting](chapter5/copyediting.md)
        * [Draft Files](chapter5/copyediting/draft-files.md)
-           * [Upload/Select](chapter4/copyediting/draft-files/upload-select.md)
+           * [Upload/Select](chapter5/copyediting/draft-files/upload-select.md)
        * [Copyediting Discussions](chapter4/copyediting/copyediting-discussions.md)
            * [Order](chapter4/copyediting/copyediting-discussions/order.md)
            * [Add](chapter4/copyediting/copyediting-discussions/add.md)
