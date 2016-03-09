@@ -99,7 +99,7 @@
        * [Production Formats](chapter4/production/production-formats.md)
            * [Add Production Format](chapter4/production/production-formats/add-production-format.md)
 * [Chapter 7: Tools](chapter7/intro.md)
-   * [Import/Export](chapter6/import-export.md)
+   * [Import/Export](chapter7/import-export.md)
    * [Statistics](chapter6/statistics.md)
 * [Chapter 8: Administering](chapter8/intro.md)
    * [Site Management](chapter8/site-management.md)
