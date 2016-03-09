@@ -20,7 +20,7 @@
 * [Chapter 4: Catalog](chapter4/catalog.md)
    * [New Catalog Entry](chapter4/catalog/new-catalog-entry.md)
    * [Homepage](chapter4/catalog/homepage.md)
-   * [Category](chapter3/catalog/category.md)
+   * [Category](chapter4/catalog/category.md)
    * [Series](chapter3/catalog/series.md)
    * [Spotlight](chapter3/catalog/spotlight.md)
    * [Search Results](chapter3/catalog/search-results.md)
