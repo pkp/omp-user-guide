@@ -1,4 +1,4 @@
 # Chapter 5: Editorial Workflow
 ## Introduction
 
-Blah blah blah.
+This chapter provides an overview of the system's editorial workflow.
