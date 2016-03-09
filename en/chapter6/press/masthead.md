@@ -9,5 +9,13 @@ Use this page to identify your press.
 
 **Press Description**: Add a brief description of your press. This will appear on the press web site.
 
+Select the "Enable this press to appear publicly on the site" checkbox to make the press visible. 
 
+You may wish to keep it unchecked while you are developing the site.
+
+**Masthead**: The Masthead should contain a list of editors, managing directors, and other individuals associated with the press. Information entered here will appear in About the Press.
+
+**Mailing Address**: The physical location and mailing address of the press.
+
+Select the **Save** button to record your changes.
 
