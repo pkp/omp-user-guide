@@ -55,7 +55,7 @@
            * [More Information](chapter5/internal-review/review-files/more-information.md)
            * [Delete](chapter5/internal-review/review-files/delete.md)
        * [Reviewers](chapter5/internal-review/reviewers.md)
-           * [Add Reviewer](chapter4/internal-review/reviewers/add-reviewer.md)
+           * [Add Reviewer](chapter5/internal-review/reviewers/add-reviewer.md)
            * [History](chapter4/internal-review/reviewers/history.md)
            * [Email](chapter4/internal-review/reviewers/email.md)
            * [Edit](chapter4/internal-review/reviewers/edit.md)
