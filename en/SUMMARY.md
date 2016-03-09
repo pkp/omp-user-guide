@@ -40,7 +40,7 @@
            * [Edit Metadata](chapter5/submission/submission-files/edit-metadata.md)
            * [Delete](chapter5/submission/submission-files/delete.md)
            * [Download All Files](chapter5/submission/submission-files/download-all-files.md)
-       * [Pre-Review Discussion](chapter4/submission/pre-review-discussion.md)
+       * [Pre-Review Discussion](chapter5/submission/pre-review-discussion.md)
            * [Add Discussion](chapter4/submission/pre-review-discussion/add-discussion.md)
        * [Decisions](chapter4/submission/decisions.md)
            * [Expedite Submission](chapter4/submission/decisions/expedite-submission.md)
