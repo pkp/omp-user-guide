@@ -30,7 +30,7 @@
        * [Add](chapter5/editorial-history/add.md)
    * [Submission Library](chapter5/submission-library.md)
        * [Add a File](chapter5/submission-library/add-a-file.md)
-       * [View Document Library](chapter4/submission-library/view-document-library.md)
+       * [View Document Library](chapter5/submission-library/view-document-library.md)
    * [Participants](chapter4/participants.md)
        * [Add](chapter4/participants/add.md)
    * [Submission](chapter4/submission.md)
