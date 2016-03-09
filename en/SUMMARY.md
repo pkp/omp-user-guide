@@ -43,7 +43,7 @@
        * [Pre-Review Discussion](chapter5/submission/pre-review-discussion.md)
            * [Add Discussion](chapter5/submission/pre-review-discussion/add-discussion.md)
        * [Decisions](chapter5/submission/decisions.md)
-           * [Expedite Submission](chapter4/submission/decisions/expedite-submission.md)
+           * [Expedite Submission](chapter5/submission/decisions/expedite-submission.md)
            * [Send to Internal Review](chapter4/submission/decisions/send-to-internal-review.md)
            * [Send to External Review](chapter4/submission/decisions/send-to-external-review.md)
            * [Accept Submission](chapter4/submission/decisions/accept-submission.md)
