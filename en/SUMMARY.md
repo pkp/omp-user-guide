@@ -28,7 +28,7 @@
        * [Notes](chapter5/editorial-history/notes.md)
        * [History](chapter5/editorial-history/history.md)
        * [Add](chapter5/editorial-history/add.md)
-   * [Submission Library](chapter4/submission-library.md)
+   * [Submission Library](chapter5/submission-library.md)
        * [Add a File](chapter4/submission-library/add-a-file.md)
        * [View Document Library](chapter4/submission-library/view-document-library.md)
    * [Participants](chapter4/participants.md)
