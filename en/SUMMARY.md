@@ -132,7 +132,7 @@
 * [Chapter 7: Tools](chapter6/intro.md)
    * [Import/Export](chapter6/import-export.md)
    * [Statistics](chapter6/statistics.md)
-* [Chapter 7: Administering](chapter7/intro.md)
+* [Chapter 8: Administering](chapter7/intro.md)
    * [Site Management](chapter7/site-management.md)
        * [Hosted Presses](chapter7/site-management/hosted-presses.md)
            * [Create Presse](chapter7/site-management/hosted-presses/create-press.md)
