@@ -121,4 +121,5 @@
 * [Chapter 10: Reviewing](chapter10/intro.md)
    * [Reviewing a Submission](chapter10/reviewing-a-submissionmd.md)
 * Chapter 6: Settings
+   * Masthead
 
