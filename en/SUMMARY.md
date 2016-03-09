@@ -103,6 +103,7 @@
    * [Contact](chapter6/press/contact.md)
    * [Policies](chapter6/press/policies.md)
    * [Guides](chapter6/press/guides.md)
+   * Series
 * [Chapter 7: Tools](chapter7/intro.md)
    * [Import/Export](chapter7/import-export.md)
    * [Statistics](chapter7/statistics.md)
