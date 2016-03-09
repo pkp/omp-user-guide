@@ -62,7 +62,7 @@
            * [Unassign Reviewer](chapter5/internal-review/reviewers/unassign-reviewer.md)
        * [Revisions](chapter5/internal-review/revisions.md)
            * [Upload File](chapter5/internal-review/revisions/upload-file.md)
-       * [Review Discussions](chapter4/internal-review/review-discussions.md)
+       * [Review Discussions](chapter5/internal-review/review-discussions.md)
    * [External Review](chapter4/external-review.md)
        * [Review Rounds](chapter4/external-review/review-rounds.md)
        * [Review Files](chapter4/external-review/review-files.md)
