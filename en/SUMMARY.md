@@ -119,5 +119,5 @@
    * [Responding to Reviewers](chapter8/responding-to-reviewers.md)
    * [Tracking Submissions](chapter8/tracking-submissions.md)
 * [Chapter 10: Reviewing](chapter10/intro.md)
-   * [Reviewing a Submission](chapter10/reviewing-a-submission.md)
+   * [Reviewing a Submission](chapter10/reviewing-a-submissionmd.md)
 
