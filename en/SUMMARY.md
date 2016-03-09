@@ -26,7 +26,7 @@
    * [Series](chapter4/catalog/series.md)
        * [Manage Series](chapter4/series/manage-series.md)
    * [Spotlight](chapter4/catalog/spotlight.md)
-       * manage-spotlights
+       * [manage-spotlights](chapter4/catalog/spotlight/manage-spotlights.md)
    * [Search Results](chapter4/catalog/search-results.md)
 * [Chapter 5: Editorial Workflow](chapter5/intro.md)
    * [Editorial History](chapter5/editorial-history.md)
