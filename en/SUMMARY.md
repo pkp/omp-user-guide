@@ -58,7 +58,7 @@
            * [Add Reviewer](chapter5/internal-review/reviewers/add-reviewer.md)
            * [History](chapter5/internal-review/reviewers/history.md)
            * [Email](chapter5/internal-review/reviewers/email.md)
-           * [Edit](chapter4/internal-review/reviewers/edit.md)
+           * [Edit](chapter5/internal-review/reviewers/edit.md)
            * [Unassign Reviewer](chapter4/internal-review/reviewers/unassign-reviewer.md)
        * [Revisions](chapter4/internal-review/revisions.md)
            * [Upload File](chapter4/internal-review/revisions/upload-file.md)
