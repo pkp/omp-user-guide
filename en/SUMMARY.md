@@ -110,7 +110,7 @@
    * [Information](chapter6/website/information.md)
    * [Languages](../chapter6/website/languages.md)
    * [Plugins](chapter6/website/plugins.md)
-   * Announcements
+   * [Announcements](chapter6/website/announcements.md)
 * [Chapter 7: Tools](chapter7/intro.md)
    * [Import/Export](chapter7/import-export.md)
    * [Statistics](chapter7/statistics.md)
