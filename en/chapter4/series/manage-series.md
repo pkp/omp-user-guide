@@ -8,3 +8,4 @@ A **Delete** link is also provided, if you wish to remove an existing series.
 Use the **Order** link to re-order how the series display.
 
 Use the **Add Series** link to create a new series.
+
