@@ -21,7 +21,7 @@ From here, you can add the series details:
 
 **Restricted**: ???
 
-**ISSN**: The International Standard Serial Number identifies periodical publications, including electronic serials. A number can be obtained from the [ISSN web site](http://www.issn.org/).
+**ISSN**: The International Standard Serial Number identifies periodical publications, including electronic serials. You can get a number from the [ISSN web site](http://www.issn.org/).
 
 ISSNs are available for both online and print versions of your publications.
 
@@ -30,6 +30,8 @@ ISSNs are available for both online and print versions of your publications.
 **Categories**: Use this menu to associate this work with a category. Use the *Add Item* link to add a new category.
 
 **Series Editor**: Use this list to associate this work with a series editor. Use the *Add Item* link to add a series editor.
+
+**Path**: Enter a single word term (e.g., business or business-and-economics, etc.) that will create a URL for your series.
 
 
 
