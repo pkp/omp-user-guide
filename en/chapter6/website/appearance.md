@@ -1,2 +1,3 @@
-# Appearance
+# Chapter 6: Settings
+## Appearance
 
