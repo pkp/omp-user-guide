@@ -38,7 +38,7 @@
            * [Upload File](chapter5/submission/submission-files/upload-file.md)
            * [More Information](chapter5/submission/submission-files/more-information.md)
            * [Edit Metadata](chapter5/submission/submission-files/edit-metadata.md)
-           * [Delete](chapter4/submission/submission-files/delete.md)
+           * [Delete](chapter5/submission/submission-files/delete.md)
            * [Download All Files](chapter4/submission/submission-files/download-all-files.md)
        * [Pre-Review Discussion](chapter4/submission/pre-review-discussion.md)
            * [Add Discussion](chapter4/submission/pre-review-discussion/add-discussion.md)
