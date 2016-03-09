@@ -31,7 +31,7 @@
    * [Submission Library](chapter5/submission-library.md)
        * [Add a File](chapter5/submission-library/add-a-file.md)
        * [View Document Library](chapter5/submission-library/view-document-library.md)
-   * [Participants](chapter4/participants.md)
+   * [Participants](chapter5/participants.md)
        * [Add](chapter4/participants/add.md)
    * [Submission](chapter4/submission.md)
        * [Submission Files](chapter4/submission/submission-files.md)
