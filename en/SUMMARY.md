@@ -22,7 +22,7 @@
        * [Monograph](chapter4/catalog/new-catalog-entry/monograph.md)
    * [Homepage](chapter4/catalog/homepage.md)
    * [Category](chapter4/catalog/category.md)
-       * [Manage Categories](chapter4/catalog/manage-categories.md)
+       * [Manage Categories](chapter4/catalog/categories/manage-categories.md)
    * [Series](chapter4/catalog/series.md)
        * [Manage Series](chapter4/series/manage-series.md)
    * [Spotlight](chapter4/catalog/spotlight.md)
