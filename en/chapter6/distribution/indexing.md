@@ -1,13 +1,11 @@
+# Chapter 6: Settings
+## Indexing
 
-Search Engine Indexing
-To assist the users of search engines in discovering this press, provide a brief description of the press and relevant keywords (separated by semicolons).
-Description
+**Search Engine Indexing**: To improve your visibility in search engines, provide a brief description of the press.
 
-Custom tags
-Custom HTML header tags to be inserted in the header of every page (e.g., META tags).
+**Custom Tags**: Custom HTML header tags can be added to the header of every page (e.g., META tags). Leave this field blank if you are unfamiliar with using HTML header tags.
 
-Register Press for Indexing (Metadata Harvesting)
+**Register Press for Indexing (Metadata Harvesting)**: This system is compliant with Open Archives Initiative Protocol for Metadata Harvesting (OAI-PMH). This will allow you to register your press with various OAI-PMH repositories *once you have published content*. 
 
-To have the contents of this press indexed within a globally distributed system of research databases, register your press URL with the Public Knowledge Project metadata harvester. This tool collects the metadata from each indexed item in this press, enabling accurate and collective searching among the research sites that adhere to the Open Archives Initiative Protocol for Metadata Harvesting. 
+The [PKP Index](http://index.pkp.sfu.ca) is one such repository that will help you share your content with the world.
 
-Note that if your site administrator has already registered this site with the PKP Harvester, your press will be indexed automatically and you do not need to register your press. 
