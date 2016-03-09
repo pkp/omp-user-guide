@@ -9,3 +9,5 @@ Use the **Order** link to re-order how the series display.
 
 Use the **Add Series** link to create a new series.
 
+From here, you can add the Series Details:
+
