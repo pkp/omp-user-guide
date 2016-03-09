@@ -1,5 +1,5 @@
-#Chapter 3: Dashboard
-## Submissions
+#Chapter 3: Submissions
+## My Queue
 
 This page provides information about submissions in the editorial workflow. 
 
