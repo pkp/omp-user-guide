@@ -16,7 +16,6 @@
    * [My Queue](chapter3/my-queue.md)
    * [All Active](chapter3/all-active.md)
    * [Archives](chapter3/archives.md)
-   * [Feature](chapter3/feature.md)
 * [Chapter 4: Catalog](chapter4/catalog.md)
    * [New Catalog Entry](chapter4/catalog/new-catalog-entry.md)
    * [Homepage](chapter4/catalog/homepage.md)
