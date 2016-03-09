@@ -115,7 +115,7 @@
        * [Clear Template Cache](chapter7/administrative-functions/clear-template-cache.md)
        * [Clear Scheduled Task Execution Logs](chapter7/administrative-functions/clear-scheduled-task-execution-logs.md)
 * [Chapter 9: Authoring](chapter9/intro.md)
-   * [New Submission](chapter8/new-submission.md)
+   * [New Submission](chapter9/new-submission.md)
    * [Responding to Reviewers](chapter8/responding-to-reviewers.md)
    * [Tracking Submissions](chapter8/tracking-submissions.md)
 * [Chapter 10: Reviewing](chapter10/intro.md)
