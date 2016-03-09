@@ -70,7 +70,7 @@
            * [More Information](chapter5/external-review/review-files/more-information.md)
            * [Delete](chapter5/external-review/review-files/delete.md)
        * [Reviewers](chapter5/external-review/reviewers.md)
-           * [Add Reviewer](chapter4/external-review/reviewers/add-reviewer.md)
+           * [Add Reviewer](chapter5/external-review/reviewers/add-reviewer.md)
            * [History](chapter4/external-review/reviewers/history.md)
            * [Email](chapter4/external-review/reviewers/email.md)
            * [Edit](chapter4/external-review/reviewers/edit.md)
