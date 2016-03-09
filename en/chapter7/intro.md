@@ -1,4 +1,4 @@
-# Chapter 7: Administering
+# Chapter 7: Tools
 ## Introduction
 
 Blah blah blah.
