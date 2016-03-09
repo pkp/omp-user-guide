@@ -109,7 +109,7 @@
            * [Remove](chapter7/site-management/hosted-presses/remove.md)
            * [Settings Wizard](chapter7/site-management/hosted-presses/settings-wizard.md)
    * [Administrative Functions](chapter8/administrative-functions.md)
-       * [System Information](chapter7/administrative-functions/system-information.md)
+       * [System Information](chapter8/administrative-functions/system-information.md)
        * [Expire User Sessions](chapter7/administrative-functions/expire-user-sessions.md)
        * [Clear Data Caches](chapter7/administrative-functions/clear-data-caches.md)
        * [Clear Template Cache](chapter7/administrative-functions/clear-template-cache.md)
