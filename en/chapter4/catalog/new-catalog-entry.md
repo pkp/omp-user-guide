@@ -3,6 +3,8 @@
 
 Use the drop down menu to select a published work from the catalog.
 
+This will reveal the Monograph and Catalog tabs.
+
 From the **Monograph** tab, fill in the necessary information.
 
 **Series**: If the work is part of a series, select it here. New series entries can be added under Catalog > Series.
