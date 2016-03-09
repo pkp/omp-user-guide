@@ -16,4 +16,4 @@ To create a new role, use the *Create New Role* link. You will need to indicate 
 * Series Editors: can access selected stages in workflow
 * Press Assistants: can access limited stages in workflow
 
-You will also need to provide a Role Name, a Role Abbreviation (e.g., Reviewer = REV), which stages they can access, and different role options.
+You will also need to provide a Role Name, a Role Abbreviation (e.g., Reviewer = REV), which stages they can access, and thier different role options.
