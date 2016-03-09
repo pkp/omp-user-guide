@@ -24,7 +24,7 @@
    * [Series](chapter4/catalog/series.md)
    * [Spotlight](chapter3/catalog/spotlight.md)
    * [Search Results](chapter4/catalog/search-results.md)
-* [Chapter 5: Editorial Workflow](chapter4/intro.md)
+* [Chapter 5: Editorial Workflow](chapter5/intro.md)
    * [Catalog Entry](chapter4/catalog-entry.md)
        * [Monograph](chapter4/catalog-entry/monograph.md)
        * [Catalog](chapter4/catalog-entry/catalog.md)
