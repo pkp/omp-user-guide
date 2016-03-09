@@ -25,7 +25,7 @@
    * [Search Results](chapter4/catalog/search-results.md)
 * [Chapter 5: Editorial Workflow](chapter5/intro.md)
    * [Editorial History](chapter4/editorial-history.md)
-       * [Notes](chapter4/editorial-history/notes.md)
+       * [Notes](chapter/editorial-history/notes.md)
        * [History](chapter4/editorial-history/history.md)
        * [Add](chapter4/editorial-history/add.md)
    * [Submission Library](chapter4/submission-library.md)
