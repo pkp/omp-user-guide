@@ -138,5 +138,5 @@
    * [Reviewing a Submission](chapter10/reviewing-a-submissionmd.md)
    * [Request](chapter10/request.md)
    * [Guidelines](chapter10/guidelines.md)
-   * Download & Review
+   * [Download & Review](chapter10/download-and-review.md)
 
