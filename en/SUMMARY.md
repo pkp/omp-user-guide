@@ -137,4 +137,5 @@
 * [Chapter 10: Reviewing](chapter10/intro.md)
    * [Reviewing a Submission](chapter10/reviewing-a-submissionmd.md)
    * [Request](chapter10/request.md)
+   * Guidelines
 
