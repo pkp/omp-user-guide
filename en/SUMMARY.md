@@ -45,7 +45,7 @@
        * [Decisions](chapter5/submission/decisions.md)
            * [Expedite Submission](chapter5/submission/decisions/expedite-submission.md)
            * [Send to Internal Review](chapter5/submission/decisions/send-to-internal-review.md)
-           * [Send to External Review](chapter4/submission/decisions/send-to-external-review.md)
+           * [Send to External Review](chapter5/submission/decisions/send-to-external-review.md)
            * [Accept Submission](chapter4/submission/decisions/accept-submission.md)
            * [Decline Submission](chapter4/submission/decisions/decline-submission.md)
    * [Internal Review](chapter4/internal-review.md)
