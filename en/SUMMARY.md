@@ -34,7 +34,7 @@
    * [Participants](chapter5/participants.md)
        * [Add](chapter5/participants/add.md)
    * [Submission](chapter5/submission.md)
-       * [Submission Files](chapter4/submission/submission-files.md)
+       * [Submission Files](chapter5/submission/submission-files.md)
            * [Upload File](chapter4/submission/submission-files/upload-file.md)
            * [More Information](chapter4/submission/submission-files/more-information.md)
            * [Edit Metadata](chapter4/submission/submission-files/edit-metadata.md)
