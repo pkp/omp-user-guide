@@ -21,7 +21,7 @@
    * [New Catalog Entry](chapter4/catalog/new-catalog-entry.md)
    * [Homepage](chapter4/catalog/homepage.md)
    * [Category](chapter4/catalog/category.md)
-   * [Series](chapter3/catalog/series.md)
+   * [Series](chapter4/catalog/series.md)
    * [Spotlight](chapter3/catalog/spotlight.md)
    * [Search Results](chapter3/catalog/search-results.md)
 * [Chapter 5: Editorial Workflow](chapter4/intro.md)
