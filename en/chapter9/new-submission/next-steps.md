@@ -2,6 +2,6 @@
 ## Next Steps
 
 The final page confirms the submission is complete and invites you to:
-* review the submission
-* make another submission
-* return to your dashboard
+ * Review the submission
+ * Make another submission
+ * Return to your dashboard
