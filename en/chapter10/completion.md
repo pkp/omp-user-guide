@@ -1,4 +1,4 @@
-# Chapter 10: Reviewing
+# Chapter 10: External Review
 ## Completion
 
 The final step is simply an acknowledgement of your contribution. You have now completed the review process.
