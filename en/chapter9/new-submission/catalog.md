@@ -11,7 +11,7 @@ This example would result in the full title of "A Study of Library-based Publish
 
 **List of Contributors**: You will listed here as the submitting author. Use the *Add Contributor* link to add others.
 
-You will need to provide their name, contact information, country, user details, and role (e.g., author, translator, etc.).
+In the new window, you will need to provide their name, contact information, country, user details, and role (e.g., author, translator, etc.).
 
 Use the checkboxes to indicate:
 
@@ -20,7 +20,7 @@ Use the checkboxes to indicate:
 
 **Chapters**: If this submission consists of separate chapters, you can each of them here using the *Add Chapter* link.
 
-You will need to provide a chapter title, any separate contributors, and any separate chapter files.
+In the new window, you will need to provide a chapter title, any separate contributors, and any separate chapter files.
 
 Use the *Add Contributor* link to add new contributors to the chapter.
 
