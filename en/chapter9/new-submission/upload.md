@@ -10,3 +10,6 @@ In Step 1, select the File Component using the menu. This tells the system what 
 You can then upload the file, either by dragging and dropping or using the file upload tool.
 
 Select **Continue** to proceed.
+
+In Step 2, you must name the file (e.g., Book Manuscript, or Photo 1). This will provide you and the editors an easy way to identify this file as it goes through the workflow. Do not include your name, as this file name will be visible to reviewers.
+
