@@ -1,3 +1,3 @@
 # Chapter 9: Authoring
-## Responding to Reviewers
+## Responding to Reviews
 
