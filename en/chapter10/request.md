@@ -1,4 +1,4 @@
-# Chapter 10: Reviewing
+# Chapter 10: External Review
 ## Request
 
 Step 1 involves agreeing to do the review.
