@@ -18,3 +18,8 @@ You have the option of adding comments to the Note field. This note will be visi
 Select **Continue** to proceed.
 
 In Step 3, you can add another file, such as another photo, or select the **Complete** button to finish uploading files.
+
+Your uploaded files are now visible in the **Submission Files** table.
+
+Select **Save and Continue** to proceed.
+
