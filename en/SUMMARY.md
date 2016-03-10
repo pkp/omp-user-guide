@@ -134,7 +134,7 @@
    * [New Submission](chapter9/new-submission.md)
        * [Prepare](chapter9/new-submission/prepare.md)
        * [Upload](chapter9/new-submission/upload.md)
-       * Catalog
+       * [Catalog](chapter9/new-submission/catalog.md)
    * [Responding to Reviews](chapter9/responding-to-reviewers.md)
    * [Tracking Submissions](chapter9/tracking-submissions.md)
 * [Chapter 10: Reviewing](chapter10/intro.md)
