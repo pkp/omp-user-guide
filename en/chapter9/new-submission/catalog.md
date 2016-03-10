@@ -20,5 +20,15 @@ Use the checkboxes to indicate:
 
 **Chapters**: If this submission consists of separate chapters, you can each of them here using the *Add Chapter* link.
 
+You will need to provide a chapter title, any separate contributors, and any separate chapter files.
+
+Use the *Add Contributor* link to add new contributors to the chapter.
+
+Use the *Add Item* link to add files to the chapter.
+
+**Categories**: Use the *Add Item* link to add a category for the submission (e.g., Business).
+
+Select **Save and Continue** to proceed.
+
 
 
