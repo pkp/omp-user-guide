@@ -13,3 +13,8 @@ Select **Continue** to proceed.
 
 In Step 2, you must name the file (e.g., Book Manuscript, or Photo 1). This will provide you and the editors an easy way to identify this file as it goes through the workflow. Do not include your name, as this file name will be visible to reviewers.
 
+You have the option of adding comments to the Note field. This note will be visible to everyone involved in the submission process, including editors, reviewers, copyeditors, etc.
+
+Select **Continue** to proceed.
+
+In Step 3, you can add another file, such as another photo, or select the **Complete** button to finish uploading files.
