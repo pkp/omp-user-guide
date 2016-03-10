@@ -17,16 +17,7 @@ Note: Some presses may replace these blank text boxes with specific questions fo
 
 Be sure that you don't add any identifying information to the revised manuscript. That would undermine the blind peer review process.
 
-**Recommendation**: Next, select your recommendation from the menu. Options include:
-
-* Accept Submission: you believe the manuscript is ready for copyediting without further revisions
-* Revisions Required: you believe the manuscript is worthy of publishing, but requires minor revisions (outlined in your comments above)
-* Resubmit for Review: you believe the manuscript has potential for publishing, but requires major changes (outline in your comments above) and another round of peer review
-* Resubmit Elsewhere: you believe the manuscript has potential, but does not fit with the focus and scope of this press
-* Decline Submission: you believe this manuscript has no potential for publishing
-* See Comments: you wish to communicate a recommendation outside of the above options
-
-Once you've made your selection, select the **Submit Review** button to proceed.
+Once you've made your comments, select the **Submit Review** button to proceed.
 
 
 
