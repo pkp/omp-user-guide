@@ -7,11 +7,11 @@ Step 1 involves agreeing to do the review.
 
 **View All Submission Details**: Selecting this link will show you more information about the submission, including series or category information.
 
-Review Schedule: This section shows you the dates of:
+**Review Schedule**: This section shows you the dates of:
 
 * the editor's request
 * when you need to respond to the request by
 * when you need to complete the review by
 
-Hit the **Accept** button to continue, or **Decline** to reject the request.
+Hit the **Accept Review** button to continue, or **Decline Review Request** to reject the request.
 
