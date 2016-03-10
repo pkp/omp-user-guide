@@ -1,2 +1,3 @@
-# Catalog
+# Chapter 9: Authoring
+## Catalog
 
