@@ -1,4 +1,4 @@
-# Chapter 10: Reviewing
+# Chapter 10: External Review
 ## Download & Review
 
 In this step, you will conduct your review.
