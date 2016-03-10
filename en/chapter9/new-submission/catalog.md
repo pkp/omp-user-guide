@@ -18,5 +18,7 @@ Use the checkboxes to indicate:
 * whether the new contributor should be the principal contact person for working with the editor 
 * whether this person's name should appear in the Author browse list on the press website.
 
+**Chapters**: If this submission consists of separate chapters, you can each of them here using the *Add Chapter* link.
+
 
 
