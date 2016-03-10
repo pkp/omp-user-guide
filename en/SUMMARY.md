@@ -139,7 +139,7 @@
        * [Next Steps](chapter9/new-submission/next-steps.md)
    * [Responding to Reviews](chapter9/responding-to-reviewers.md)
    * [Tracking Submissions](chapter9/tracking-submissions.md)
-* [Chapter 10: Reviewing](chapter10/intro.md)
+* [Chapter 10: External Reviewing](chapter10/intro.md)
    * [Reviewing a Submission](chapter10/reviewing-a-submissionmd.md)
    * [Request](chapter10/request.md)
    * [Guidelines](chapter10/guidelines.md)
