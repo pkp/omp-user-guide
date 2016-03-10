@@ -1,2 +1,3 @@
-# Next Steps
+# Chapter 9: Authoring
+## Next Steps
 
