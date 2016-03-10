@@ -132,7 +132,7 @@
        * [Clear Scheduled Task Execution Logs](chapter8/administrative-functions/clear-scheduled-task-execution-logs.md)
 * [Chapter 9: Authoring](chapter9/intro.md)
    * [New Submission](chapter9/new-submission.md)
-       * prepare.md
+       * Prepare
    * [Responding to Reviews](chapter9/responding-to-reviewers.md)
    * [Tracking Submissions](chapter9/tracking-submissions.md)
 * [Chapter 10: Reviewing](chapter10/intro.md)
