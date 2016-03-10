@@ -136,6 +136,7 @@
        * [Upload](chapter9/new-submission/upload.md)
        * [Catalog](chapter9/new-submission/catalog.md)
        * [Confirmation](chapter9/new-submission/confirmation.md)
+       * Next Steps
    * [Responding to Reviews](chapter9/responding-to-reviewers.md)
    * [Tracking Submissions](chapter9/tracking-submissions.md)
 * [Chapter 10: Reviewing](chapter10/intro.md)
