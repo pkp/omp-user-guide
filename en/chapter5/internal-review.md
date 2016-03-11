@@ -26,7 +26,11 @@ The *Search* tool allows you to find files in a long list.
 
 The *Upload File* link allows you to add revised files to the list.
 
-**Review Discussions**: 
+**Review Discussions**: Allows you to communicate with other participants involved with the editorial workflow for this submission.
+
+Use the *Add Discussion* link to initiate a new discussion.
+
+You will need to choose the recipients, add a subject line, and compose a message. You also have the option of attaching a file. Hit the *OK* button to create the discussion and inform the recipients.
 
 
 
