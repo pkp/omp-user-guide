@@ -20,6 +20,8 @@ Use the toggle next to the file name to reveal *More Information* and *Delete* l
 
 You can locate a reviewer by searching or selecting from a list.
 
+Reviewer comments will be available from this table as they come in.
+
 **Revisions**: A list of all revisions to the submission. 
 
 The *Search* tool allows you to find files in a long list.
@@ -31,6 +33,8 @@ The *Upload File* link allows you to add revised files to the list.
 Use the *Add Discussion* link to initiate a new discussion.
 
 You will need to choose the recipients, add a subject line, and compose a message. You also have the option of attaching a file. Hit the *OK* button to create the discussion and inform the recipients.
+
+
 
 
 
