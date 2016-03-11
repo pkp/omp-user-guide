@@ -31,6 +31,7 @@
 * [Chapter 5: Editorial Workflow](chapter5/intro.md)
    * Catalog Entry
        * Monograph
+       * Catalog
    * [Editorial History](chapter5/editorial-history.md)
        * [Notes](chapter5/editorial-history/notes.md)
        * [History](chapter5/editorial-history/history.md)
