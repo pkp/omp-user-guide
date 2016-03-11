@@ -15,7 +15,7 @@ Use the toggle next to the file name to reveal *More Information*, *Edit Metadat
 * *Edit Metadata* allows you to modify the metadata of the file.
 * *Delete* allows you to delete the file.
 
-**Pre-Review Discussions**: Allow you to communicate with other participants involved with the editorial workflow for this submission.
+**Pre-Review Discussions**: Allows you to communicate with other participants involved with the editorial workflow for this submission.
 
 Use the *Add Discussion* link to initiate a new discussion.
 
