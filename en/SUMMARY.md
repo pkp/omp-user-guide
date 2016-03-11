@@ -39,7 +39,6 @@
        * [Add](chapter5/participants/add.md)
    * [Submission](chapter5/submission.md)
    * [Internal Review](chapter5/internal-review.md)
-       * [Review Rounds](chapter5/internal-review/review-rounds.md)
        * [Review Files](chapter5/internal-review/review-files.md)
            * [Upload/Select](chapter5/internal-review/review-files/upload-select.md)
            * [More Information](chapter5/internal-review/review-files/more-information.md)
