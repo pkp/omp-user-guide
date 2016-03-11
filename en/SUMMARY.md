@@ -111,7 +111,7 @@
    * [Responding to Reviews](chapter9/responding-to-reviewers.md)
    * [Tracking Submissions](chapter9/tracking-submissions.md)
 * [Chapter 10: External Reviewing](chapter10/intro.md)
-   * [Reviewing a Submission](chapter10/reviewing-a-submissionmd.md)
+   * [Reviewing a Submission](chapter10/reviewing-a-submission.md)
    * [Request](chapter10/request.md)
    * [Guidelines](chapter10/guidelines.md)
    * [Download & Review](chapter10/download-and-review.md)
