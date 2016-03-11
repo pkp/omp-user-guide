@@ -3,6 +3,8 @@
 
 In the Internal Review stage, the editor assigns internal reviewers to the submission.
 
+By default, you are placed in *Round 1* of reviews. If major changes are required, Round 2 may be initiated.
+
 **Review Files**: All files sent by the editor for internal review are listed here.
 
 Use the *Search* tool if there are several files.
