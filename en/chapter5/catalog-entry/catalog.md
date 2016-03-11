@@ -1,4 +1,4 @@
 # Chapter 5: Editorial Workflow
 ## Catalog
 
-1.
+See Chapter 4 for more information.
