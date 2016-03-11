@@ -99,6 +99,7 @@
            * [Add](chapter5/production/production-discussion/add.md)
        * [Production Formats](chapter5/production/production-formats.md)
            * [Add Production Format](chapter5/production/production-formats/add-production-format.md)
+   * Catalog Entry
 * [Chapter 6: Settings](chapter6/intro.md)
    * [Masthead](chapter6/press/masthead.md)
    * [Contact](chapter6/press/contact.md)
