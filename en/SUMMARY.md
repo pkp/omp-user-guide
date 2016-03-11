@@ -38,8 +38,6 @@
    * [Participants](chapter5/participants.md)
        * [Add](chapter5/participants/add.md)
    * [Submission](chapter5/submission.md)
-       * [Pre-Review Discussion](chapter5/submission/pre-review-discussion.md)
-           * [Add Discussion](chapter5/submission/pre-review-discussion/add-discussion.md)
        * [Decisions](chapter5/submission/decisions.md)
            * [Expedite Submission](chapter5/submission/decisions/expedite-submission.md)
            * [Send to Internal Review](chapter5/submission/decisions/send-to-internal-review.md)
