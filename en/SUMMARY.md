@@ -91,7 +91,7 @@
        * [Categories](chapter6/context/categories.md)
        * [Sponsor](chapter6/context/sponsor.md)
    * [Website](chapter6/website.md)
-       * Appearance
+       * [Appearance](chapter6/website/appearanc.md)
 * [Chapter 7: Tools](chapter7/intro.md)
    * [Import/Export](chapter7/import-export.md)
    * [Statistics](chapter7/statistics.md)
