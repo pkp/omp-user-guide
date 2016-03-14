@@ -85,7 +85,7 @@
    * [Announcements](chapter6/website/announcements.md)
    * [Navigation](chapter6/website/navigation.md)
    * [Components](chapter6/workflow/components.md)
-   * [distribution.md](chapter6/distribution.md)
+   * [Distribution](chapter6/distribution.md)
        * [Indexing](chapter6/distribution/indexing.md)
        * [Payment](en/chapter6/distribution/payment.md)
        * [Permissions](en/chapter6/distribution/permissions.md)
