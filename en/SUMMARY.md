@@ -90,7 +90,7 @@
        * [Guides](chapter6/context/guides.md)
        * [Series](chapter6/context/series.md)
        * [Categories](chapter6/context/categories.md)
-       * Sponsor
+       * [Sponsor](chapter6/context/sponsor.md)
 * [Chapter 7: Tools](chapter7/intro.md)
    * [Import/Export](chapter7/import-export.md)
    * [Statistics](chapter7/statistics.md)
