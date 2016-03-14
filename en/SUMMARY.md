@@ -92,6 +92,7 @@
        * [Announcements](chapter6/website/announcements.md)
        * [Components](chapter6/workflow/components.md)
    * Workflow
+       * test
 * [Chapter 7: Tools](chapter7/intro.md)
    * [Import/Export](chapter7/import-export.md)
    * [Statistics](chapter7/statistics.md)
