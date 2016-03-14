@@ -98,7 +98,7 @@
        * [Payment](en/chapter6/distribution/payment.md)
        * [Permissions](en/chapter6/distribution/permissions.md)
    * [Users & Roles](chapter6/users_&_roles.md)
-       * [Roles](chapter6/users-and-roles/role.md)
+       * [Roles](chapter6/users-and-roles/roles.md)
        * [Site Access Options](chapter6/users-and-roles/site-access-options.md)
 * [Chapter 7: Tools](chapter7/intro.md)
    * [Import/Export](chapter7/import-export.md)
