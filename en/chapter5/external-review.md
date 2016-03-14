@@ -9,7 +9,7 @@ By default, you are placed in *Round 1* of reviews. If major changes are require
 
 Use the *Search* tool if there are several files.
 
-Use the *Upload/Select File* tool to add any additional files for consideration.
+Use the *Upload/Select Files* tool to add any additional files for consideration.
 
 Use the toggle next to the file name to reveal *More Information* and *Delete* links:
 
