@@ -47,7 +47,6 @@
            * [Add Reviewer](chapter5/external-review/reviewers/add-reviewer.md)
            * [History](chapter5/external-review/reviewers/history.md)
            * [Email](chapter5/external-review/reviewers/email.md)
-           * [Edit](chapter5/external-review/reviewers/edit.md)
    * [Copyediting](chapter5/copyediting.md)
        * [Draft Files](chapter5/copyediting/draft-files.md)
            * [Upload/Select](chapter5/copyediting/draft-files/upload-select.md)
