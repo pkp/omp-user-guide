@@ -29,7 +29,7 @@
        * [Manage Spotlights](chapter4/catalog/spotlight/manage-spotlights.md)
    * [Search Results](chapter4/catalog/search-results.md)
 * [Chapter 5: Editorial Workflow](chapter5/intro.md)
-   * Catalog Entry
+   * [Catalog Entry](en/chapter5/catalog-entry)
    * [Editorial History](chapter5/editorial-history.md)
        * [Notes](chapter5/editorial-history/notes.md)
        * [History](chapter5/editorial-history/history.md)
