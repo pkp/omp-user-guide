@@ -71,7 +71,6 @@
        * [Production Formats](chapter5/production/production-formats.md)
            * [Add Production Format](chapter5/production/production-formats/add-production-format.md)
 * [Chapter 6: Settings](chapter6/intro.md)
-   * [Appearance](chapter6/website/appearance.md)
    * [Information](chapter6/website/information.md)
    * [Languages](chapter6/website/languages.md)
    * [Plugins](chapter6/website/plugins.md)
