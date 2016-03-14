@@ -90,7 +90,7 @@
        * [Policies](chapter6/context/policies.md)
        * [Guides](chapter6/context/guides.md)
        * [Series](chapter6/context/series.md)
-       * Categories
+       * [Categories](chapter6/context/categories.md)
 * [Chapter 7: Tools](chapter7/intro.md)
    * [Import/Export](chapter7/import-export.md)
    * [Statistics](chapter7/statistics.md)
