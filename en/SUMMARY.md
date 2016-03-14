@@ -87,7 +87,7 @@
    * [Components](chapter6/workflow/components.md)
    * [distribution.md](chapter6/distribution.md)
        * [Indexing](chapter6/distribution/indexing.md)
-       * Payment
+       * [Payment](en/chapter6/distribution/payment.md)
 * [Chapter 7: Tools](chapter7/intro.md)
    * [Import/Export](chapter7/import-export.md)
    * [Statistics](chapter7/statistics.md)
