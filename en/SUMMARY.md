@@ -86,7 +86,7 @@
        * [Navigation](chapter6/website/navigation.md)
        * [Plugins](chapter6/website/plugins.md)
        * [Announcements](chapter6/website/announcements.md)
-   * Workflow
+   * [Workflow](chapter6/workflow.md)
        * [Components](chapter6/workflow/components.md)
        * [Emails](chapter6/workflow/emails.md)
        * [Press Library](chapter6/workflow/press-library.md)
