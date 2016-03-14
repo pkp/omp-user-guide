@@ -89,6 +89,7 @@
        * [Permissions](en/chapter6/distribution/permissions.md)
    * [Context](chapter6/context.md)
        * [Masthead](chapter6/context/masthead.md)
+       * Contact
 * [Chapter 7: Tools](chapter7/intro.md)
    * [Import/Export](chapter7/import-export.md)
    * [Statistics](chapter7/statistics.md)
