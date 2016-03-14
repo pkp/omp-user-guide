@@ -16,7 +16,9 @@ Use the toggle next to the file name to reveal *More Information* and *Delete* l
 * *More Information* provides the editorial history of the file.
 * *Delete* allows you to delete the file.
 
-**Reviewers**: A list of all internal reviewers for this submission. Use the *Add Reviewer* link to add reviewers. 
+**Reviewers**: A list of all external reviewers for this submission. 
+
+Use the *Add Reviewer* link to add reviewers. 
 
 You can locate a reviewer by searching or selecting from a list.
 
