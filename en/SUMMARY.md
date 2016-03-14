@@ -96,7 +96,7 @@
        * [Press Library](chapter6/workflow/press-library.md)
        * [Production](chapter6/workflow/production.md)
        * [Review](en/chapter6/workflow/review.md)
-       * Submission
+       * [Submission](chapter6/workflow/submissio.md)
 * [Chapter 7: Tools](chapter7/intro.md)
    * [Import/Export](chapter7/import-export.md)
    * [Statistics](chapter7/statistics.md)
