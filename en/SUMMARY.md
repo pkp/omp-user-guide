@@ -86,7 +86,7 @@
    * [Navigation](chapter6/website/navigation.md)
    * [Components](chapter6/workflow/components.md)
    * [distribution.md](chapter6/distribution.md)
-       * [index](chapter6/press)
+       * [index](chapter6/distribution/index.md)
 * [Chapter 7: Tools](chapter7/intro.md)
    * [Import/Export](chapter7/import-export.md)
    * [Statistics](chapter7/statistics.md)
