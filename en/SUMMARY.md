@@ -91,7 +91,7 @@
    * [Website](chapter6/website.md)
        * [Appearance](chapter6/website/appearance.md)
        * [Information](chapter6/website/information.md)
-       * Languages
+       * [Languages](chapter6/website/language.md)
 * [Chapter 7: Tools](chapter7/intro.md)
    * [Import/Export](chapter7/import-export.md)
    * [Statistics](chapter7/statistics.md)
