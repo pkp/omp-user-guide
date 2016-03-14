@@ -43,7 +43,6 @@
    * [Submission](chapter5/submission.md)
    * [Internal Review](chapter5/internal-review.md)
    * [External Review](chapter5/external-review.md)
-       * [Review Rounds](chapter5/external-review/review-rounds.md)
        * [Review Files](chapter5/external-review/review-files.md)
            * [Upload/Select](chapter5/external-review/review-files/upload-select.md)
            * [More Information](chapter5/external-review/review-files/more-information.md)
