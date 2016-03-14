@@ -71,7 +71,6 @@
        * [Production Formats](chapter5/production/production-formats.md)
            * [Add Production Format](chapter5/production/production-formats/add-production-format.md)
 * [Chapter 6: Settings](chapter6/intro.md)
-   * [Series](chapter6/press/series.md)
    * [Categories](chapter6/press/categories.md)
    * [Sponsor](chapter6/press/sponsor.md)
    * [Appearance](chapter6/website/appearance.md)
