@@ -90,7 +90,7 @@
        * [Masthead](chapter6/context/masthead.md)
        * [Contact](chapter6/context/contact.md)
        * [Policies](chapter6/context/policies.md)
-       * Guides
+       * [Guides](chapter6/context/guides.md)
 * [Chapter 7: Tools](chapter7/intro.md)
    * [Import/Export](chapter7/import-export.md)
    * [Statistics](chapter7/statistics.md)
