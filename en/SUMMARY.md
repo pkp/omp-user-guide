@@ -94,7 +94,7 @@
        * [Components](chapter6/workflow/components.md)
        * [Emails](chapter6/workflow/emails.md)
        * [Press Library](chapter6/workflow/press-library.md)
-       * [Prod](chapter6/workflow/prod.md)
+       * [Prod](chapter6/workflow/production.md)
 * [Chapter 7: Tools](chapter7/intro.md)
    * [Import/Export](chapter7/import-export.md)
    * [Statistics](chapter7/statistics.md)
