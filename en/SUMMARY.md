@@ -89,7 +89,7 @@
        * [Indexing](chapter6/distribution/indexing.md)
        * [Payment](en/chapter6/distribution/payment.md)
        * [Permissions](en/chapter6/distribution/permissions.md)
-   * [Context](chapter6/press.md)
+   * [Context](chapter6/context.md)
 * [Chapter 7: Tools](chapter7/intro.md)
    * [Import/Export](chapter7/import-export.md)
    * [Statistics](chapter7/statistics.md)
