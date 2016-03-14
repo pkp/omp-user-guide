@@ -45,7 +45,6 @@
    * [External Review](chapter5/external-review.md)
        * [Review Files](chapter5/external-review/review-files.md)
            * [Upload/Select](chapter5/external-review/review-files/upload-select.md)
-           * [More Information](chapter5/external-review/review-files/more-information.md)
        * [Reviewers](chapter5/external-review/reviewers.md)
            * [Add Reviewer](chapter5/external-review/reviewers/add-reviewer.md)
            * [History](chapter5/external-review/reviewers/history.md)
