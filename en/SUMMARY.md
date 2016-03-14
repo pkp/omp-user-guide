@@ -29,6 +29,7 @@
        * [Manage Spotlights](chapter4/catalog/spotlight/manage-spotlights.md)
    * [Search Results](chapter4/catalog/search-results.md)
 * [Chapter 5: Editorial Workflow](chapter5/intro.md)
+   * Catalog Entry
    * [Editorial History](chapter5/editorial-history.md)
        * [Notes](chapter5/editorial-history/notes.md)
        * [History](chapter5/editorial-history/history.md)
@@ -70,7 +71,6 @@
            * [Add](chapter5/production/production-discussion/add.md)
        * [Production Formats](chapter5/production/production-formats.md)
            * [Add Production Format](chapter5/production/production-formats/add-production-format.md)
-   * Catalog Entry
 * [Chapter 6: Settings](chapter6/intro.md)
    * [Context](chapter6/context.md)
        * [Masthead](chapter6/context/masthead.md)
