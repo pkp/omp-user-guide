@@ -93,7 +93,7 @@
    * Workflow
        * [Components](chapter6/workflow/components.md)
        * test
-       * [Emails](chapter6/workflow/email.md)
+       * [Emails](chapter6/workflow/emails.md)
 * [Chapter 7: Tools](chapter7/intro.md)
    * [Import/Export](chapter7/import-export.md)
    * [Statistics](chapter7/statistics.md)
