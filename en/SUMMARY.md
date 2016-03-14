@@ -30,7 +30,7 @@
    * [Search Results](chapter4/catalog/search-results.md)
 * [Chapter 5: Editorial Workflow](chapter5/intro.md)
    * [Catalog Entry](en/chapter5/catalog-entry.md)
-       * [Catalog](en/chapter5/catalog-entry/catalog.md)
+       * [Catalog](chapter5/catalog-entry/catalog.md)
    * [Editorial History](chapter5/editorial-history.md)
        * [Notes](chapter5/editorial-history/notes.md)
        * [History](chapter5/editorial-history/history.md)
