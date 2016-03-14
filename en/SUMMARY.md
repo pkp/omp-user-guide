@@ -99,7 +99,7 @@
        * [Permissions](en/chapter6/distribution/permissions.md)
    * [Users & Roles](chapter6/users_&_roles.md)
        * [Roles](chapter6/users-and-roles/role.md)
-       * Site Access Options
+       * [Site Access Options](chapter6/users-and-roles/site_access_option.md)
 * [Chapter 7: Tools](chapter7/intro.md)
    * [Import/Export](chapter7/import-export.md)
    * [Statistics](chapter7/statistics.md)
