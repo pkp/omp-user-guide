@@ -24,7 +24,7 @@
            * [Settings Wizard](administering/site-management/hosted-presses/settings-wizard.md)
    * [Administrative Functions](administering/administrative-functions.md)
        * [System Information](administering/adminstrative-functions/system-information.md)
-       * [Expire User Sessions](chapter8/administrative-functions/expire-user-sessions.md)
+       * [Expire User Sessions](administering/administrative-functions/expire-user-sessions.md)
        * [Clear Data Caches](chapter8/administrative-functions/clear-data-caches.md)
        * [Clear Template Cache](chapter8/administrative-functions/clear-template-cache.md)
        * [Clear Scheduled Task Execution Logs](chapter8/administrative-functions/clear-scheduled-task-execution-logs.md)
