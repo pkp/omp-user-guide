@@ -27,7 +27,7 @@
        * [Expire User Sessions](administering/administrative-functions/expire-user-sessions.md)
        * [Clear Data Caches](administering/administrative-functions/clear-data-caches.md)
        * [Clear Template Cache](administering/administrative-functions/clear-template-cache.md)
-       * [Clear Scheduled Task Execution Logs](chapter8/administrative-functions/clear-scheduled-task-execution-logs.md)
+       * [Clear Scheduled Task Execution Logs](administering/administrative-functions/clear-scheduled-task-execution-logs.md)
 * [Catalog](catalog.md)
    * [New Catalog Entry](catalog/new-catalog-entry.md)
        * [Catalog](catalog/catalog.md)
