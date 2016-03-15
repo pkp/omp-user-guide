@@ -7,7 +7,7 @@
    * [Login](user-profile/login.md)
    * [Identity](user-profile/identity.md)
    * [Contact](user-profile/contact.md)
-   * [Roles](chapter1/roles.md)
+   * [Roles](user-profile/roles.md)
    * [Public](chapter1/public.md)
    * [Password](chapter1/password.md)
    * [Notification](chapter1/notification.md)
