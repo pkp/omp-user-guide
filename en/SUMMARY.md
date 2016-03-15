@@ -97,7 +97,7 @@
    * [Guidelines](chapter10/guidelines.md)
    * [Download & Review](chapter10/download-and-review.md)
    * [Completion](chapter10/completion.md)
-* [Catalog](catalogmd.md)
+* [Catalog](catalog.md)
    * [New Catalog Entry](catalog/new-catalog-entry.md)
        * [Catalog](catalog/catalog.md)
        * [Monograph](catalog/monograph.md)
@@ -108,5 +108,5 @@
        * [Manage Series](catalog/series/manage-series.md)
    * [Spotlight](catalog/spotlight.md)
        * [Manage Spotlights](catalog/spotlight/manage-spotlights.md)
-   * [Search Results](/catalog/search-results.md)
+   * [Search Results](catalog/search-results.md)
 
