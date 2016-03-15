@@ -1,4 +1,4 @@
-# Chapter 5: Editorial Workflow
+# Editorial Workflow
 ## Internal Review
 
 1. Introduction
