@@ -103,5 +103,5 @@
    * [Completion](chapter10/completion.md)
 * [Catalog](en/catalog.md)
    * [Category](catalog/category.md)
-   * Series
+   * [Series](catalog/series.md)
 
