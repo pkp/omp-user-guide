@@ -101,7 +101,7 @@
    * [Download & Review](chapter10/download-and-review.md)
    * [Completion](chapter10/completion.md)
 * [Catalog](en/catalog.md)
-   * [Homepage](chapter4/catalog/homepage.md)
+   * [Homepage](/catalog/homepage.md)
    * [Category](catalog/category.md)
    * [Series](catalog/series.md)
    * [New Catalog Entry](catalog/new-catalog-entry.md)
