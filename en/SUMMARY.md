@@ -106,4 +106,5 @@
        * [Prepare](authoring/new-submission/prepare.md)
        * [Upload](authoring/new-submission/upload.md)
        * [Catalog](authoring/new-submission/catalog.md)
+       * Confirmation
 
