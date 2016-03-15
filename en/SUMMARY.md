@@ -10,7 +10,7 @@
    * [Public](chapter1/public.md)
    * [Password](chapter1/password.md)
    * [Notification](chapter1/notification.md)
-* [User Profile](en/user-profile)
+* [User Profile](user-profile.md)
 * [Chapter 2: Tasks](chapter2/intro.md)
    * [Tasks](chapter2/tasks.md)
 * [Chapter 3: Submissions](chapter3/intro.md)
