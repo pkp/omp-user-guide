@@ -16,6 +16,7 @@
    * [Archives](submissions/archives.md)
 * [Tasks](tasks.md)
 * [Administering](administering.md)
+   * Site Management
 * [Catalog](catalog.md)
    * [New Catalog Entry](catalog/new-catalog-entry.md)
        * [Catalog](catalog/catalog.md)
