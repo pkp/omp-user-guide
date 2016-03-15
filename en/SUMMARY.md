@@ -11,7 +11,6 @@
    * [Password](chapter1/password.md)
 * [User Profile](user-profile.md)
    * [Notification](chapter1/notification.md)
-   * Register
 * [Chapter 2: Tasks](chapter2/intro.md)
    * [Tasks](chapter2/tasks.md)
 * [Chapter 3: Submissions](chapter3/intro.md)
