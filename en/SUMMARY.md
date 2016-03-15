@@ -103,7 +103,7 @@
        * [Monograph](catalog/monograph.md)
    * [Homepage](catalog/homepage.md)
    * [Category](catalog/category.md)
-       * Manage Categories
+       * [Manage Categories](catalog/categories/manage-categories.md)
    * [Series](catalog/series.md)
    * [Spotlight](catalog/spotlight.md)
        * [Manage Spotlights](catalog/spotlight/manage-spotlights.md)
