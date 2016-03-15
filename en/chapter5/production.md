@@ -28,4 +28,6 @@ You will need to choose the recipients, add a subject line, and compose a messag
 
 **Publication Formats**: The final production files are listed here.
 
+Use the *Add Publication Format* link to create a new format.
+
 Once the publication formats are all in place, create a new catalog entry (see Catalog Entry above for details) to have the submission appear on the website.
