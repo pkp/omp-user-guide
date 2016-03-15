@@ -1,4 +1,4 @@
-# Chapter 1: User Profile
+# User Profile
 ## Login
 
 Once you have an account, add your username and password to login.
