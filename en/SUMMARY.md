@@ -35,7 +35,6 @@
    * [Editorial History](chapter5/editorial-history.md)
    * [Submission Library](chapter5/submission-library.md)
    * [Participants](chapter5/participants.md)
-       * [Add](chapter5/participants/add.md)
    * [Submission](chapter5/submission.md)
    * [Internal Review](chapter5/internal-review.md)
    * [External Review](chapter5/external-review.md)
