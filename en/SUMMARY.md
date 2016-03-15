@@ -70,7 +70,7 @@
        * [Roles](chapter6/users-and-roles/roles.md)
        * [Site Access Options](chapter6/users-and-roles/site-access-options.md)
        * [User Management](chapter6/users-and-roles/user-management.md)
-* [Tools](chapter7/intro.md)
+* [Tools](tools/intro.md)
    * [Import/Export](chapter7/import-export.md)
    * [Statistics](chapter7/statistics.md)
 * [Chapter 8: Administering](chapter8/intro.md)
