@@ -4,7 +4,7 @@
 * [User Profile](user-profile/intro.md)
 * [User Profile](user-profile.md)
    * [Register](user-profile/register.md)
-   * [Login](chapter1/login.md)
+   * [Login](user-profile/login.md)
    * [Identity](chapter1/identity.md)
    * [Contact](chapter1/contact.md)
    * [Roles](chapter1/roles.md)
