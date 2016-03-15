@@ -1,4 +1,4 @@
-# Chapter 3: Submissions
+# Submissions
 ## My Queue
 
 The My Queue page provides access to the most important submissions in the press.
