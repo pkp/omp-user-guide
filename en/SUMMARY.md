@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * [User Profile](user-profile/intro.md)
 * [User Profile](user-profile.md)
-   * [Register](chapter1/register.md)
+   * [Register](user-profile/register.md)
    * [Login](chapter1/login.md)
    * [Identity](chapter1/identity.md)
    * [Contact](chapter1/contact.md)
