@@ -23,6 +23,7 @@
            * [Remove](administering/site-management/hosted-presses/remove.md)
            * [Settings Wizard](administering/site-management/hosted-presses/settings-wizard.md)
    * [Administrative Functions](administering/administrative-functions.md)
+       * System Information
 * [Catalog](catalog.md)
    * [New Catalog Entry](catalog/new-catalog-entry.md)
        * [Catalog](catalog/catalog.md)
