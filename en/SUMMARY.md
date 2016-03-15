@@ -11,7 +11,7 @@
    * [Public](user-profile/public.md)
    * [Password](user-profile/password.md)
    * [Notification](user-profile/notification.md)
-* [Chapter 3: Submissions](chapter3/intro.md)
+* [Submissions](chapter3/intro.md)
    * [My Queue](chapter3/my-queue.md)
    * [All Active](chapter3/all-active.md)
    * [Archives](chapter3/archives.md)
