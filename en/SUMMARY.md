@@ -33,7 +33,6 @@
        * [Catalog](chapter5/catalog-entry/catalog.md)
        * [Monograph](chapter5/catalog-entry/monograph.md)
    * [Editorial History](chapter5/editorial-history.md)
-       * [History](chapter5/editorial-history/history.md)
    * [Submission Library](chapter5/submission-library.md)
        * [Add a File](chapter5/submission-library/add-a-file.md)
        * [View Document Library](chapter5/submission-library/view-document-library.md)
