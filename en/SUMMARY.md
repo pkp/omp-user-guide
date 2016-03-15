@@ -104,7 +104,7 @@
    * [Homepage](catalog/homepage.md)
    * [Category](catalog/category.md)
    * [Series](catalog/series.md)
-   * [Spotlight](chapter4/catalog/spotlight.md)
+   * [Spotlight](catalog/spotlight.md)
        * [Manage Spotlights](chapter4/catalog/spotlight/manage-spotlights.md)
    * [Search Results](chapter4/catalog/search-results.md)
    * Homepage
