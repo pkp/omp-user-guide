@@ -16,11 +16,11 @@ Use the toggle next to the file name to reveal *More Information* and *Delete* l
 
 **Participants**: Includes the names of all users involved in the editorial process.
 
-Use the *Add* link to add a new participant to the list, such as a copyeditor.
+Use the *Add* link to add a new participant to the list, such as a production assistant.
 
 Use the toggle next to the user's name to reveal links to *Remove* or *Notify* the user.
 
-**Copyediting Discussions**: Allows you to communicate with other participants involved with the editorial workflow for this submission.
+**Production Discussions**: Allows you to communicate with other participants involved with the editorial workflow for this submission.
 
 Use the *Add Discussion* link to initiate a new discussion.
 
