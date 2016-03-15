@@ -72,7 +72,7 @@
        * [User Management](chapter6/users-and-roles/user-management.md)
 * [Tools](tools/intro.md)
    * [Import/Export](tools/import-export.md)
-   * [Statistics](chapter7/statistics.md)
+   * [Statistics](tools/statistics.md)
 * [Chapter 8: Administering](chapter8/intro.md)
    * [Site Management](chapter8/site-management.md)
        * [Hosted Presses](chapter8/site-management/hosted-presses.md)
