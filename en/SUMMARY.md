@@ -104,4 +104,5 @@
 * [Catalog](en/catalog.md)
    * [Category](catalog/category.md)
    * [Series](catalog/series.md)
+   * New Catalog Entry
 
