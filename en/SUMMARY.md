@@ -9,7 +9,7 @@
    * [Contact](user-profile/contact.md)
    * [Roles](user-profile/roles.md)
    * [Public](user-profile/public.md)
-   * [Password](chapter1/password.md)
+   * [Password](user-profile/password.md)
    * [Notification](chapter1/notification.md)
 * [Chapter 2: Tasks](chapter2/intro.md)
    * [Tasks](chapter2/tasks.md)
