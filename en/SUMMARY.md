@@ -2,7 +2,6 @@
 
 * [Introduction](README.md)
 * [User Profile](user-profile/intro.md)
-   * [Register](chapter1/register.md)
    * [Login](chapter1/login.md)
    * [Identity](chapter1/identity.md)
    * [Contact](chapter1/contact.md)
@@ -10,6 +9,7 @@
    * [Public](chapter1/public.md)
    * [Password](chapter1/password.md)
 * [User Profile](user-profile.md)
+   * [Register](chapter1/register.md)
    * [Notification](chapter1/notification.md)
 * [Chapter 2: Tasks](chapter2/intro.md)
    * [Tasks](chapter2/tasks.md)
