@@ -1,2 +1,4 @@
-# Clear Data Caches
+# Administering
+## Clear Data Caches
 
+Clears all cached data, including locale information, help cache, and search cache.
