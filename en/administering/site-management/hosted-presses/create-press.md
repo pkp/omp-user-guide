@@ -1,4 +1,4 @@
-# Chapter 8: Administering
+# Administering
 ## Create Press
 
 To create a press, add the following information:
