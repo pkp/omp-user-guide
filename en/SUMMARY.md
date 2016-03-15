@@ -15,6 +15,7 @@
    * [All Active](submissions/all-active.md)
    * [Archives](submissions/archives.md)
 * [Tasks](tasks.md)
+* Administering
 * [Catalog](catalog.md)
    * [New Catalog Entry](catalog/new-catalog-entry.md)
        * [Catalog](catalog/catalog.md)
@@ -101,5 +102,4 @@
    * [Guidelines](chapter10/guidelines.md)
    * [Download & Review](chapter10/download-and-review.md)
    * [Completion](chapter10/completion.md)
-* Administering
 
