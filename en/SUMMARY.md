@@ -14,7 +14,7 @@
 * [Submissions](submissions/intro.md)
    * [My Queue](submissions/my-queue.md)
    * [All Active](submissions/all-active.md)
-   * [Archives](chapter3/archives.md)
+   * [Archives](submissions/archives.md)
 * [Chapter 4: Catalog](chapter4/catalog.md)
    * [New Catalog Entry](chapter4/catalog/new-catalog-entry.md)
        * [Catalog](chapter4/catalog/new-catalog-entry/catalog.md)
