@@ -27,3 +27,5 @@ Use the *Add Discussion* link to initiate a new discussion.
 You will need to choose the recipients, add a subject line, and compose a message. You also have the option of attaching a file. Hit the *OK* button to create the discussion and inform the recipients.
 
 **Publication Formats**: The final production files are listed here.
+
+Once the publication formats are all in place, create a new catalog entry (see Catalog Entry above for details) to have the submission appear on the website.
