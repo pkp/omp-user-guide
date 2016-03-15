@@ -103,5 +103,5 @@
    * [Completion](chapter10/completion.md)
 * [Authoring](authoring.md)
    * [New Submission](authoring/new-submission.md)
-       * Prepare
+       * [Prepare](authoring/new-submission/prepare.md)
 
