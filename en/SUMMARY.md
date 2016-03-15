@@ -98,14 +98,14 @@
    * [Download & Review](chapter10/download-and-review.md)
    * [Completion](chapter10/completion.md)
 * [Catalog](en/catalog.md)
+   * [New Catalog Entry](catalog/new-catalog-entry.md)
+       * [Catalog](catalog/catalog.md)
+       * [Monograph](catalog/monograph.md)
    * [Homepage](catalog/homepage.md)
    * [Category](catalog/category.md)
    * [Series](catalog/series.md)
    * [Spotlight](chapter4/catalog/spotlight.md)
        * [Manage Spotlights](chapter4/catalog/spotlight/manage-spotlights.md)
    * [Search Results](chapter4/catalog/search-results.md)
-   * [New Catalog Entry](catalog/new-catalog-entry.md)
-       * [Catalog](catalog/catalog.md)
-       * [Monograph](catalog/monograph.md)
    * Homepage
 
