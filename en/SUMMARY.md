@@ -1,7 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-   * [Tasks](tasks.md)
 * [User Profile](user-profile.md)
    * [Register](user-profile/register.md)
    * [Login](user-profile/login.md)
@@ -15,6 +14,7 @@
    * [My Queue](submissions/my-queue.md)
    * [All Active](submissions/all-active.md)
    * [Archives](submissions/archives.md)
+* [Tasks](tasks.md)
 * [Catalog](catalog.md)
    * [New Catalog Entry](catalog/new-catalog-entry.md)
        * [Catalog](catalog/catalog.md)
