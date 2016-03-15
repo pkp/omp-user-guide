@@ -15,7 +15,7 @@
    * [All Active](submissions/all-active.md)
    * [Archives](submissions/archives.md)
 * [Tasks](tasks.md)
-* Administering
+* [Administering](administering.md)
 * [Catalog](catalog.md)
    * [New Catalog Entry](catalog/new-catalog-entry.md)
        * [Catalog](catalog/catalog.md)
