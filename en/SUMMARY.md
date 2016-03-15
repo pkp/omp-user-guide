@@ -12,7 +12,7 @@
    * [Password](user-profile/password.md)
    * [Notification](user-profile/notification.md)
 * [Submissions](submissions/intro.md)
-   * [My Queue](chapter3/my-queue.md)
+   * [My Queue](submissions/my-queue.md)
    * [All Active](chapter3/all-active.md)
    * [Archives](chapter3/archives.md)
 * [Chapter 4: Catalog](chapter4/catalog.md)
