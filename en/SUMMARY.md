@@ -20,6 +20,7 @@
        * [Hosted Presses](administering/site-management/hosted-presses.md)
            * [Create Press](administering/site-management/hosted-presses/create-press.md)
            * [Edit](administering/site-management/hosted-presses/edit.md)
+           * Remove
 * [Catalog](catalog.md)
    * [New Catalog Entry](catalog/new-catalog-entry.md)
        * [Catalog](catalog/catalog.md)
