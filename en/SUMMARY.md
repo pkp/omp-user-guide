@@ -102,4 +102,5 @@
    * [Download & Review](chapter10/download-and-review.md)
    * [Completion](chapter10/completion.md)
 * [Authoring](authoring.md)
+   * New Submission
 
