@@ -1,7 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-   * User Profile
 * [User Profile](user-profile/intro.md)
    * [Register](chapter1/register.md)
    * [Login](chapter1/login.md)
@@ -11,6 +10,7 @@
    * [Public](chapter1/public.md)
    * [Password](chapter1/password.md)
    * [Notification](chapter1/notification.md)
+* User Profile
 * [Chapter 2: Tasks](chapter2/intro.md)
    * [Tasks](chapter2/tasks.md)
 * [Chapter 3: Submissions](chapter3/intro.md)
