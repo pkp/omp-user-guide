@@ -9,8 +9,8 @@
    * [Roles](chapter1/roles.md)
    * [Public](chapter1/public.md)
    * [Password](chapter1/password.md)
-   * [Notification](chapter1/notification.md)
 * [User Profile](user-profile.md)
+   * [Notification](chapter1/notification.md)
    * Register
 * [Chapter 2: Tasks](chapter2/intro.md)
    * [Tasks](chapter2/tasks.md)
