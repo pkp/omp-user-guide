@@ -15,3 +15,9 @@ Use the toggle next to the file name to reveal *More Information* and *Delete* l
 * *More Information* provides the editorial history of the file.
 * *Delete* allows you to delete the file.
 
+**Copyediting Discussions**: Allows you to communicate with other participants involved with the editorial workflow for this submission.
+
+Use the *Add Discussion* link to initiate a new discussion.
+
+You will need to choose the recipients, add a subject line, and compose a message. You also have the option of attaching a file. Hit the *OK* button to create the discussion and inform the recipients.
+
