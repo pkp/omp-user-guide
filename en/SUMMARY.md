@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [Chapter 1: User Profile](chapter1/intro.md)
+* [User Profile](chapter1/intro.md)
    * [Register](chapter1/register.md)
    * [Login](chapter1/login.md)
    * [Identity](chapter1/identity.md)
