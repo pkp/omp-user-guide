@@ -106,4 +106,5 @@
    * [Series](catalog/series.md)
    * [New Catalog Entry](catalog/new-catalog-entry.md)
        * [Catalog](catalog/catalog.md)
+       * Monograph
 
