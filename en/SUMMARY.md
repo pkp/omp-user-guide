@@ -10,7 +10,7 @@
    * [Roles](user-profile/roles.md)
    * [Public](user-profile/public.md)
    * [Password](user-profile/password.md)
-   * [Notification](chapter1/notification.md)
+   * [Notification](user-profile/notification.md)
 * [Chapter 2: Tasks](chapter2/intro.md)
    * [Tasks](chapter2/tasks.md)
 * [Chapter 3: Submissions](chapter3/intro.md)
