@@ -105,5 +105,5 @@
    * [Category](catalog/category.md)
    * [Series](catalog/series.md)
    * [New Catalog Entry](catalog/new-catalog-entry.md)
-       * Catalog
+       * [Catalog](catalog/catalog.md)
 
