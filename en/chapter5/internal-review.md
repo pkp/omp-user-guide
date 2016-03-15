@@ -34,38 +34,16 @@ The review discussions are not particular to any one round and will carry over t
 Editors and sub-editors can add additional users to this stage to assist them in managing the peer review process. This is commonly used by an editor who wants a sub-editor to handle the day-to-day communications with reviewers.
 
 ###Editorial Decisions
+The editor can make one of five editorial decisions during each round of the review stage. Each of these decisions automatically notifies the author by email.
 
+####Request Revisions
+The editor can request revisions from the author without opening a new review round. This is common when minor revisions are required which the editor can approve without re-submitting for peer review.
 
-Use the *Search* tool if there are several files.
+####Resubmit for Review
+The editor can request revisions from the author which will need to go through another round of peer review. Once revisions are received, a new review round will need to be created at the top of the review stage.
 
-Use the *Upload File* tool to add any additional files for consideration.
+####Send to External Review
+The editor can send the submission to External Review once it has passed peer review.
 
-Use the toggle next to the file name to reveal *More Information* and *Delete* links:
-
-* *More Information* provides the editorial history of the file.
-* *Delete* allows you to delete the file.
-
-**Reviewers**: A list of all internal reviewers for this submission. Use the *Add Reviewer* link to add reviewers. 
-
-You can locate a reviewer by searching or selecting from a list.
-
-Reviewer comments will be available from this table as they come in.
-
-**Revisions**: A list of all revisions to the submission. 
-
-The *Search* tool allows you to find files in a long list.
-
-The *Upload File* link allows you to add revised files to the list.
-
-**Review Discussions**: Allows you to communicate with other participants involved with the editorial workflow for this submission.
-
-Use the *Add Discussion* link to initiate a new discussion.
-
-You will need to choose the recipients, add a subject line, and compose a message. You also have the option of attaching a file. Hit the *OK* button to create the discussion and inform the recipients.
-
-
-
-
-
-
-
+####Decline Submission
+The editor can decline the submission if it does not pass peer review. The submission will be removed from the editorial workflow and sent to the Archives.
