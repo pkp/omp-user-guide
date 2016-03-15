@@ -105,6 +105,7 @@
    * [Category](catalog/category.md)
        * [Manage Categories](catalog/categories/manage-categories.md)
    * [Series](catalog/series.md)
+       * Manage Series
    * [Spotlight](catalog/spotlight.md)
        * [Manage Spotlights](catalog/spotlight/manage-spotlights.md)
    * [Search Results](chapter4/catalog/search-results.md)
