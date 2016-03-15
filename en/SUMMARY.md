@@ -107,5 +107,4 @@
    * [Spotlight](catalog/spotlight.md)
        * [Manage Spotlights](catalog/spotlight/manage-spotlights.md)
    * [Search Results](chapter4/catalog/search-results.md)
-   * Homepage
 
