@@ -44,8 +44,6 @@
    * [Internal Review](chapter5/internal-review.md)
    * [External Review](chapter5/external-review.md)
    * [Copyediting](chapter5/copyediting.md)
-       * [Draft Files](chapter5/copyediting/draft-files.md)
-           * [Upload/Select](chapter5/copyediting/draft-files/upload-select.md)
        * [Send to Production](chapter5/copyediting/send-to-production.md)
    * [Production](chapter5/production.md)
        * [Production Ready Files](chapter5/production/production-ready-files.md)
