@@ -5,7 +5,7 @@
 * [User Profile](user-profile.md)
    * [Register](user-profile/register.md)
    * [Login](user-profile/login.md)
-   * [Identity](chapter1/identity.md)
+   * [Identity](user-profile/identity.md)
    * [Contact](chapter1/contact.md)
    * [Roles](chapter1/roles.md)
    * [Public](chapter1/public.md)
