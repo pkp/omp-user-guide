@@ -21,7 +21,7 @@
            * [Create Press](administering/site-management/hosted-presses/create-press.md)
            * [Edit](administering/site-management/hosted-presses/edit.md)
            * [Remove](administering/site-management/hosted-presses/remove.md)
-           * Settings Wizard
+           * [Settings Wizard](administering/site-management/hosted-presses/settings-wizard.md)
 * [Catalog](catalog.md)
    * [New Catalog Entry](catalog/new-catalog-entry.md)
        * [Catalog](catalog/catalog.md)
