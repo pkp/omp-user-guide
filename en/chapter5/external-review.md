@@ -1,37 +1,49 @@
-# Chapter 5: Editorial Workflow
+# Editorial Workflow
 ## External Review
 
-In the External Review stage, the editor assigns external reviewers to the submission.
+1. Introduction
+2. Orientation
+3. Editorial Decisions
+---
+###Introduction
+In the External Review stage, the editor can facilitate the peer review process by selecting and assigning reviewers to the submission.
 
-By default, you are placed in *Round 1* of reviews. If major changes are required, Round 2 may be initiated.
+Once the reviewers have submitted their reviews and recommendations, the editor is responsible for making an editorial decision, which will determine whether the submission is ready for the Copyediting stage or requires further revisions.
 
-**Review Files**: All files sent by the editor for external review are listed here.
+By default, the review stages begin in *Round 1* of reviews. Further rounds may be initiated if the editor requests major changes that must go through another round of peer review.
 
-Use the *Search* tool if there are several files.
+###Orientation
 
-Use the *Upload/Select Files* tool to add any additional files for consideration.
+Each review round consists of three panels for managing review files and reviewers, along with the discussions and participants panels which appear on every stage.
 
-Use the toggle next to the file name to reveal *More Information* and *Delete* links:
+####Review Files
+All the files selected by the editor for peer review. These files will be visible to reviewers unless restricted when assigning the reviewer.
 
-* *More Information* provides the editorial history of the file.
-* *Delete* allows you to delete the file.
+####Reviewers
+Editors can add reviewers, assign due dates, and monitor the status and recommendations of the reviews. When a review has been completed, you'll want to view and confirm the review to acknowledge that you've received it.
 
-**Reviewers**: A list of all external reviewers for this submission. 
+####Revisions
+Revised files uploaded by the author. During the review process, the editor may request revisions from the author. Once uploaded, they appear here and will be available to send to the Copyediting stage once they've passed peer review.
 
-Use the *Add Reviewer* link to add reviewers. 
+####Review Discussions
+Editors and sub-editors can initiate private conversations among themselves or with reviewers or authors. Authors cannot initiate discussions or communicate with reviewers.
 
-You can locate a reviewer by searching or selecting from a list.
+The review discussions are not particular to any one round and will carry over to subsequent rounds if a new peer review round is initiated.
 
-Reviewer comments will be available from this table as they come in.
+####Participants
+Editors and sub-editors can add additional users to this stage to assist them in managing the peer review process. This is commonly used by an editor who wants a sub-editor to handle the day-to-day communications with reviewers.
 
-**Revisions**: A list of all revisions to the submission. 
+###Editorial Decisions
+The editor can make one of five editorial decisions during each round of the review stage. Each of these decisions automatically notifies the author by email.
 
-The *Search* tool allows you to find files in a long list.
+####Request Revisions
+The editor can request revisions from the author without opening a new review round. This is common when minor revisions are required which the editor can approve without re-submitting for peer review.
 
-The *Upload File* link allows you to add revised files to the list.
+####Resubmit for Review
+The editor can request revisions from the author which will need to go through another round of peer review. Once revisions are received, a new review round will need to be created at the top of the review stage.
 
-**Review Discussions**: Allows you to communicate with other participants involved with the editorial workflow for this submission.
+####Send to Copyediting
+The editor can sent the submission to the Copyediting stage once it has passed peer review.
 
-Use the *Add Discussion* link to initiate a new discussion.
-
-You will need to choose the recipients, add a subject line, and compose a message. You also have the option of attaching a file. Hit the *OK* button to create the discussion and inform the recipients.
+####Decline Submission
+The editor can decline the submission if it does not pass peer review. The submission will be removed from the editorial workflow and sent to the Archives.
