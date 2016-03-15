@@ -45,8 +45,6 @@
    * [External Review](chapter5/external-review.md)
    * [Copyediting](chapter5/copyediting.md)
    * [Production](chapter5/production.md)
-       * [Production Ready Files](chapter5/production/production-ready-files.md)
-           * [Upload Files](chapter5/production/production-ready-files/upload-file.md)
 * [Chapter 6: Settings](chapter6/intro.md)
    * [Context](chapter6/context.md)
        * [Masthead](chapter6/context/masthead.md)
