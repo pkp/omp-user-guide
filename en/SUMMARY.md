@@ -17,6 +17,7 @@
 * [Tasks](tasks.md)
 * [Administering](administering.md)
    * [Site Management](administering/site-management.md)
+       * Hosted Presses
 * [Catalog](catalog.md)
    * [New Catalog Entry](catalog/new-catalog-entry.md)
        * [Catalog](catalog/catalog.md)
