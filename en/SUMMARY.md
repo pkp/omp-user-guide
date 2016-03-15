@@ -1,6 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
+   * Tasks
 * [User Profile](user-profile.md)
    * [Register](user-profile/register.md)
    * [Login](user-profile/login.md)
