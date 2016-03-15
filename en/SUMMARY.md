@@ -104,5 +104,5 @@
 * [Authoring](authoring.md)
    * [New Submission](authoring/new-submission.md)
        * [Prepare](authoring/new-submission/prepare.md)
-       * Upload
+       * [Upload](authoring/new-submission/upload.md)
 
