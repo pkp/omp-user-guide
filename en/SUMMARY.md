@@ -101,7 +101,6 @@
    * [Download & Review](reviewing/download-&-review.md)
    * [Completion](reviewing/completion.md)
 * [Editorial Workflow](editorial-workflow.md)
-   * temp
    * [Catalog Entry](editorial-workflow/catalog-entry.md)
        * [Catalog](editorial-workflow/catalog-entry/catalog.md)
        * [Monograph](editorial-workflow/catalog-entry/monograph.md)
