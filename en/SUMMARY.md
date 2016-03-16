@@ -11,7 +11,6 @@
    * [Password](user-profile/password.md)
    * [Notification](user-profile/notification.md)
 * [Submissions](submissions/intro.md)
-   * [My Queue](submissions/my-queue.md)
    * [All Active](submissions/all-active.md)
    * [Archives](submissions/archives.md)
 * [Tasks](tasks.md)
@@ -102,5 +101,6 @@
    * [Download & Review](reviewing/download-&-review.md)
    * [Completion](reviewing/completion.md)
 * [Submissions](submissions.md)
+   * [My Queue](submissions/my-queue.md)
    * temp
 
