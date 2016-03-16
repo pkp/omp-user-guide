@@ -91,7 +91,7 @@
        * [Components](settings/workflow/components.md)
        * [Emails](settings/workflow/emails.md)
        * [Press Library](settings/workflow/press-library.md)
-       * [Production](chapter6/workflow/production.md)
+       * [Production](settings/workflow/production.md)
        * [Review](en/chapter6/workflow/review.md)
        * [Submission](chapter6/workflow/submission.md)
    * [Distribution](settings/distribution.md)
