@@ -73,7 +73,7 @@
    * [Completion](reviewing/completion.md)
 * [Settings](settings.md)
    * [Context](settings/context.md)
-       * [Masthead](chapter6/context/masthead.md)
+       * [Masthead](settings/context/masthead.md)
        * [Contact](chapter6/context/contact.md)
        * [Policies](chapter6/context/policies.md)
        * [Guides](chapter6/context/guides.md)
