@@ -99,7 +99,7 @@
        * [Payment](settings/distribution/payment.md)
        * [Permissions](settings/distribution/permissions.md)
    * [Users & Roles](settings/users_&_roles.md)
-       * [Roles](chapter6/users-and-roles/roles.md)
+       * [Roles](settings/users-and-roles/roles.md)
        * [Site Access Options](chapter6/users-and-roles/site-access-options.md)
        * [User Management](chapter6/users-and-roles/user-management.md)
    * temp
