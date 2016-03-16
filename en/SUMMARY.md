@@ -101,5 +101,5 @@
    * [Guidelines](reviewing/guidelines.md)
    * [Download & Review](reviewing/download-&-review.md)
    * [Completion](reviewing/completion.md)
-* Settings
+* [Settings](settings.md)
 
