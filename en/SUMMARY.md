@@ -107,5 +107,5 @@
        * [Upload](authoring/new-submission/upload.md)
        * [Catalog](authoring/new-submission/catalog.md)
        * [Confirmation](authoring/new-submission/confirmation.md)
-       * Next Steps
+       * [Next Steps](authoring/new-submission/next_steps.md)
 
