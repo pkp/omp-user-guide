@@ -81,7 +81,7 @@
        * [Categories](settings/context/categories.md)
        * [Sponsor](settings/context/sponsor.md)
    * [Website](settings/website.md)
-       * [Appearance](chapter6/website/appearance.md)
+       * [Appearance](settings/website/appearance.md)
        * [Information](chapter6/website/information.md)
        * [Languages](chapter6/website/languages.md)
        * [Navigation](chapter6/website/navigation.md)
