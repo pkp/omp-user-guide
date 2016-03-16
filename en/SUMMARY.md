@@ -86,7 +86,7 @@
        * [Languages](settings/website/languages.md)
        * [Navigation](settings/website/navigation.md)
        * [Plugins](settings/website/plugins.md)
-       * [Announcements](chapter6/website/announcements.md)
+       * [Announcements](settings/website/announcements.md)
    * [Workflow](settings/workflow.md)
        * [Components](chapter6/workflow/components.md)
        * [Emails](chapter6/workflow/emails.md)
