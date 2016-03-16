@@ -93,7 +93,7 @@
        * [Press Library](settings/workflow/press-library.md)
        * [Production](settings/workflow/production.md)
        * [Review](settings/workflow/review.md)
-       * [Submission](chapter6/workflow/submission.md)
+       * [Submission](settings/workflow/submission.md)
    * [Distribution](settings/distribution.md)
        * [Indexing](chapter6/distribution/indexing.md)
        * [Payment](en/chapter6/distribution/payment.md)
