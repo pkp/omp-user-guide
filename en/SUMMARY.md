@@ -108,5 +108,5 @@
        * [Catalog](authoring/new-submission/catalog.md)
        * [Confirmation](authoring/new-submission/confirmation.md)
        * [Next Steps](authoring/new-submission/next_steps.md)
-   * Responding to Reviews
+   * [Responding to Reviews](authoring/responding-to-reviews.md)
 
