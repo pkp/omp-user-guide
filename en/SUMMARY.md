@@ -105,5 +105,5 @@
    * [Reviewing a Submission](reviewing/reviewing-a-submission.md)
    * [Request](reviewing/request.md)
    * [Guidelines](reviewing/guidelines.md)
-   * Download & Review
+   * [Download & Review](reviewing/download-&-review.md)
 
