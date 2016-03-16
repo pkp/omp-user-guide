@@ -106,5 +106,5 @@
        * [Monograph](editorial-workflow/catalog-entry/monograph.md)
    * [Editorial History](editorial-workflow/editorial-history.md)
    * [Submission Library](editorial-workflow/submission-library.md)
-   * Participants
+   * [Participants](editorial-workflow/participants.md)
 
