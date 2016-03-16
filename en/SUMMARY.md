@@ -102,5 +102,5 @@
    * [Completion](reviewing/completion.md)
 * [Editorial Workflow](editorial-workflow.md)
    * temp
-   * Catalog Entry
+   * [Catalog Entry](editorial-workflow/catalog-entry.md)
 
