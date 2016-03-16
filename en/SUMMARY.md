@@ -96,11 +96,11 @@
    * [Responding to Reviews](authoring/responding-to-reviews.md)
    * [Tracking Submissions](authoring/tracking-submissions.md)
 * [Reviewing](reviewing/reviewing.md)
-   * [Download & Review](reviewing/download-&-review.md)
    * [Completion](reviewing/completion.md)
 * [Reviewing](reviewing.md)
    * [Reviewing a Submission](reviewing/reviewing-a-submission.md)
    * [Request](reviewing/request.md)
    * [Guidelines](reviewing/guidelines.md)
+   * [Download & Review](reviewing/download-&-review.md)
    * temp
 
