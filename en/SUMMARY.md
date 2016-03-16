@@ -79,7 +79,7 @@
        * [Guides](settings/context/guides.md)
        * [Series](settings/context/series.md)
        * [Categories](settings/context/categories.md)
-       * [Sponsor](chapter6/context/sponsor.md)
+       * [Sponsor](settings/context/sponsor.md)
    * [Website](settings/website.md)
        * [Appearance](chapter6/website/appearance.md)
        * [Information](chapter6/website/information.md)
