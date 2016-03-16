@@ -89,7 +89,7 @@
        * [Announcements](settings/website/announcements.md)
    * [Workflow](settings/workflow.md)
        * [Components](settings/workflow/components.md)
-       * [Emails](chapter6/workflow/emails.md)
+       * [Emails](settings/workflow/emails.md)
        * [Press Library](chapter6/workflow/press-library.md)
        * [Production](chapter6/workflow/production.md)
        * [Review](en/chapter6/workflow/review.md)
