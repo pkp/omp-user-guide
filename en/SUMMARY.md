@@ -103,5 +103,5 @@
 * [Editorial Workflow](editorial-workflow.md)
    * temp
    * [Catalog Entry](editorial-workflow/catalog-entry.md)
-       * Catalog
+       * [Catalog](editorial-workflow/catalog-entry/catalog.md)
 
