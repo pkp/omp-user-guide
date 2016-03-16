@@ -39,7 +39,6 @@
    * [External Review](chapter5/external-review.md)
    * [Copyediting](chapter5/copyediting.md)
    * [Production](chapter5/production.md)
-* [Chapter 6: Settings](chapter6/intro.md)
 * [Tools](tools.md)
    * [Import/Export](tools/import-export.md)
    * [Statistics](tools/statistics.md)
