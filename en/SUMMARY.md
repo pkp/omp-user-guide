@@ -108,5 +108,5 @@
    * [Submission Library](editorial-workflow/submission-library.md)
    * [Participants](editorial-workflow/participants.md)
    * [Submissions](editorial-workflow/submissions.md)
-   * Internal Review
+   * [Internal Review](editorial-workflow/internal-review.md)
 
