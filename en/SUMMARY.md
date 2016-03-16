@@ -78,7 +78,7 @@
        * [Policies](settings/context/policies.md)
        * [Guides](settings/context/guides.md)
        * [Series](settings/context/series.md)
-       * [Categories](chapter6/context/categories.md)
+       * [Categories](settings/context/categories.md)
        * [Sponsor](chapter6/context/sponsor.md)
    * [Website](settings/website.md)
        * [Appearance](chapter6/website/appearance.md)
