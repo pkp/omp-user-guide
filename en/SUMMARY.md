@@ -83,7 +83,7 @@
    * [Website](settings/website.md)
        * [Appearance](settings/website/appearance.md)
        * [Information](settings/website/information.md)
-       * [Languages](chapter6/website/languages.md)
+       * [Languages](settings/website/languages.md)
        * [Navigation](chapter6/website/navigation.md)
        * [Plugins](chapter6/website/plugins.md)
        * [Announcements](chapter6/website/announcements.md)
