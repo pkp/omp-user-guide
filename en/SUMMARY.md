@@ -100,5 +100,5 @@
    * [Guidelines](reviewing/guidelines.md)
    * [Download & Review](reviewing/download-&-review.md)
    * [Completion](reviewing/completion.md)
-* Editorial Workflow
+* [Editorial Workflow](editorial-workflow.md)
 
