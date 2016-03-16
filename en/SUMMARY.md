@@ -75,7 +75,7 @@
    * [Context](settings/context.md)
        * [Masthead](settings/context/masthead.md)
        * [Contact](settings/context/contact.md)
-       * [Policies](chapter6/context/policies.md)
+       * [Policies](settings/context/policies.md)
        * [Guides](chapter6/context/guides.md)
        * [Series](chapter6/context/series.md)
        * [Categories](chapter6/context/categories.md)
