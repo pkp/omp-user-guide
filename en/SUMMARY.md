@@ -40,10 +40,6 @@
    * [Copyediting](chapter5/copyediting.md)
    * [Production](chapter5/production.md)
 * [Chapter 6: Settings](chapter6/intro.md)
-   * [Distribution](chapter6/distribution.md)
-       * [Indexing](chapter6/distribution/indexing.md)
-       * [Payment](en/chapter6/distribution/payment.md)
-       * [Permissions](en/chapter6/distribution/permissions.md)
    * [Users & Roles](chapter6/users_&_roles.md)
        * [Roles](chapter6/users-and-roles/roles.md)
        * [Site Access Options](chapter6/users-and-roles/site-access-options.md)
@@ -102,5 +98,9 @@
        * [Production](chapter6/workflow/production.md)
        * [Review](en/chapter6/workflow/review.md)
        * [Submission](chapter6/workflow/submission.md)
+   * [Distribution](chapter6/distribution.md)
+       * [Indexing](chapter6/distribution/indexing.md)
+       * [Payment](en/chapter6/distribution/payment.md)
+       * [Permissions](en/chapter6/distribution/permissions.md)
    * temp
 
