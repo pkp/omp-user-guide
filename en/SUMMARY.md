@@ -102,5 +102,5 @@
    * [Responding to Reviews](authoring/responding-to-reviews.md)
    * [Tracking Submissions](authoring/tracking-submissions.md)
 * [Reviewing](reviewing/reviewing.md)
-   * Reviewing a Submission
+   * [Reviewing a Submission](reviewing/reviewing-a-submission.md)
 
