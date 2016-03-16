@@ -84,7 +84,6 @@
        * [Information](settings/website/information.md)
        * [Appearance](settings/website/appearance.md)
        * [Languages](settings/website/languages.md)
-       * [Navigation](settings/website/navigation.md)
        * [Plugins](settings/website/plugins.md)
        * [Announcements](settings/website/announcements.md)
    * [Workflow](settings/workflow.md)
