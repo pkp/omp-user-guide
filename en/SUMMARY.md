@@ -10,7 +10,6 @@
    * [Public](user-profile/public.md)
    * [Password](user-profile/password.md)
    * [Notification](user-profile/notification.md)
-* [Submissions](submissions/intro.md)
 * [Tasks](tasks.md)
 * [Catalog](catalog.md)
    * [New Catalog Entry](catalog/new-catalog-entry.md)
