@@ -80,7 +80,7 @@
        * [Series](chapter6/context/series.md)
        * [Categories](chapter6/context/categories.md)
        * [Sponsor](chapter6/context/sponsor.md)
-   * [Website](chapter6/website.md)
+   * [Website](settings/website.md)
        * [Appearance](chapter6/website/appearance.md)
        * [Information](chapter6/website/information.md)
        * [Languages](chapter6/website/languages.md)
