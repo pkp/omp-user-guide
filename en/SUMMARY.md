@@ -101,6 +101,6 @@
    * [Users & Roles](settings/users_&_roles.md)
        * [Roles](settings/users-and-roles/roles.md)
        * [Site Access Options](settings/users-and-roles/site-access-options.md)
-       * [User Management](chapter6/users-and-roles/user-management.md)
+       * [User Management](settings/users-and-roles/user-management.md)
    * temp
 
