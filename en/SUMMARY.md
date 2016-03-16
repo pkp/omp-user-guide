@@ -94,7 +94,7 @@
        * [Production](chapter6/workflow/production.md)
        * [Review](en/chapter6/workflow/review.md)
        * [Submission](chapter6/workflow/submission.md)
-   * [Distribution](chapter6/distribution.md)
+   * [Distribution](settings/distribution.md)
        * [Indexing](chapter6/distribution/indexing.md)
        * [Payment](en/chapter6/distribution/payment.md)
        * [Permissions](en/chapter6/distribution/permissions.md)
