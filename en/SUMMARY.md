@@ -94,7 +94,7 @@
    * [Download & Review](reviewing/download-&-review.md)
    * [Completion](reviewing/completion.md)
 * [Settings](settings.md)
-   * [Context](chapter6/context.md)
+   * [Context](settings/context.md)
        * [Masthead](chapter6/context/masthead.md)
        * [Contact](chapter6/context/contact.md)
        * [Policies](chapter6/context/policies.md)
