@@ -102,5 +102,4 @@
    * [My Queue](submissions/my-queue.md)
    * [All Active](submissions/all-active.md)
    * [Archives](submissions/archives.md)
-   * temp
 
