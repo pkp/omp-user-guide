@@ -97,7 +97,7 @@
    * [Distribution](settings/distribution.md)
        * [Indexing](settings/distribution/indexing.md)
        * [Payment](settings/distribution/payment.md)
-       * [Permissions](en/chapter6/distribution/permissions.md)
+       * [Permissions](settings/distribution/permissions.md)
    * [Users & Roles](settings/users_&_roles.md)
        * [Roles](chapter6/users-and-roles/roles.md)
        * [Site Access Options](chapter6/users-and-roles/site-access-options.md)
