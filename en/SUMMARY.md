@@ -105,5 +105,5 @@
        * [Catalog](editorial-workflow/catalog-entry/catalog.md)
        * [Monograph](editorial-workflow/catalog-entry/monograph.md)
    * [Editorial History](editorial-workflow/editorial-history.md)
-   * Submission Library
+   * [Submission Library](editorial-workflow/submission-library.md)
 
