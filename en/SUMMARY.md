@@ -103,5 +103,6 @@
    * [Tracking Submissions](authoring/tracking-submissions.md)
 * [Reviewing](reviewing/reviewing.md)
    * [Reviewing a Submission](reviewing/reviewing-a-submission.md)
+       * Guidelines
    * [Request](reviewing/request.md)
 
