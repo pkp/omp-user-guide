@@ -76,7 +76,7 @@
        * [Masthead](settings/context/masthead.md)
        * [Contact](settings/context/contact.md)
        * [Policies](settings/context/policies.md)
-       * [Guides](chapter6/context/guides.md)
+       * [Guides](settings/context/guides.md)
        * [Series](chapter6/context/series.md)
        * [Categories](chapter6/context/categories.md)
        * [Sponsor](chapter6/context/sponsor.md)
