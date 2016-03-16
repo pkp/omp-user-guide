@@ -90,7 +90,7 @@
    * [Workflow](settings/workflow.md)
        * [Components](settings/workflow/components.md)
        * [Emails](settings/workflow/emails.md)
-       * [Press Library](chapter6/workflow/press-library.md)
+       * [Press Library](settings/workflow/press-library.md)
        * [Production](chapter6/workflow/production.md)
        * [Review](en/chapter6/workflow/review.md)
        * [Submission](chapter6/workflow/submission.md)
