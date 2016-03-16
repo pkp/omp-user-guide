@@ -104,4 +104,5 @@
    * temp
    * [Catalog Entry](editorial-workflow/catalog-entry.md)
        * [Catalog](editorial-workflow/catalog-entry/catalog.md)
+       * Monograph
 
