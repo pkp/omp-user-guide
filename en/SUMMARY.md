@@ -40,10 +40,6 @@
    * [Copyediting](chapter5/copyediting.md)
    * [Production](chapter5/production.md)
 * [Chapter 6: Settings](chapter6/intro.md)
-   * [Users & Roles](chapter6/users_&_roles.md)
-       * [Roles](chapter6/users-and-roles/roles.md)
-       * [Site Access Options](chapter6/users-and-roles/site-access-options.md)
-       * [User Management](chapter6/users-and-roles/user-management.md)
 * [Tools](tools.md)
    * [Import/Export](tools/import-export.md)
    * [Statistics](tools/statistics.md)
@@ -102,5 +98,9 @@
        * [Indexing](chapter6/distribution/indexing.md)
        * [Payment](en/chapter6/distribution/payment.md)
        * [Permissions](en/chapter6/distribution/permissions.md)
+   * [Users & Roles](chapter6/users_&_roles.md)
+       * [Roles](chapter6/users-and-roles/roles.md)
+       * [Site Access Options](chapter6/users-and-roles/site-access-options.md)
+       * [User Management](chapter6/users-and-roles/user-management.md)
    * temp
 
