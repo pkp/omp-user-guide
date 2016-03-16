@@ -88,7 +88,7 @@
        * [Plugins](settings/website/plugins.md)
        * [Announcements](settings/website/announcements.md)
    * [Workflow](settings/workflow.md)
-       * [Components](chapter6/workflow/components.md)
+       * [Components](settings/workflow/components.md)
        * [Emails](chapter6/workflow/emails.md)
        * [Press Library](chapter6/workflow/press-library.md)
        * [Production](chapter6/workflow/production.md)
