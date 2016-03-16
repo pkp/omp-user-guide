@@ -96,7 +96,7 @@
        * [Submission](settings/workflow/submission.md)
    * [Distribution](settings/distribution.md)
        * [Indexing](settings/distribution/indexing.md)
-       * [Payment](en/chapter6/distribution/payment.md)
+       * [Payment](settings/distribution/payment.md)
        * [Permissions](en/chapter6/distribution/permissions.md)
    * [Users & Roles](settings/users_&_roles.md)
        * [Roles](chapter6/users-and-roles/roles.md)
