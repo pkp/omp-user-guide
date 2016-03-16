@@ -106,5 +106,5 @@
    * [Request](reviewing/request.md)
    * [Guidelines](reviewing/guidelines.md)
    * [Download & Review](reviewing/download-&-review.md)
-   * Completion
+   * [Completion](reviewing/completion.md)
 
