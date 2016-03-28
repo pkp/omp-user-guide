@@ -1,7 +1,7 @@
 # Settings
 
 1. Introduction
-2. [Press](settings.md#press)
+2. [Press](settings.md#context)
 3. [Website](settings.md#website)
 4. [Workflow](settings.md#workflow)
 5. [Distribution](settings.md#distribution)
@@ -15,7 +15,7 @@ You can access the Settings pages by clicking on the **Settings** link in the ma
 
 There's a lot to be uncovered here. While we're improving this documentation, we've provided a quick overview of what each settings page is for, and detailed break-outs for the trickiest options.
 
-## <a name="press"></a>Press
+## <a name="context"></a>Press
 
 Configure basic details about the press, including contact information, policies, author guidelines, sponsor relationships and more. You can also add Series and Categories to your catalog from this settings page.
 
