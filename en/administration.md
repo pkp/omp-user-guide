@@ -33,3 +33,5 @@ Clears all cached data, including locale information, help cache, and search cac
 Clears all cached versions of HTML templates. This function may be useful to force templates to be reloaded after customizations have been made.
 
 ### Clear Scheduled Task Execution Logs
+
+Remove log files generated automatically by some scheduled maintenance tasks, such as the processing of statistics.
