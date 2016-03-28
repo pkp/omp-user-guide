@@ -71,7 +71,7 @@ To add an entry, go to the **Catalog Entry > Catalog** panel and check the box l
 
 Each publication format will have a two-step approval process.
 
-The first checkbox, which says "No Catalog Entry", is for editors to sign off when the [publication format's metadata](production.md#publication-format-metadata) is ready for publication.
+The first checkbox, which says "Awaiting Approval", is for editors to sign off when the [publication format's metadata](production.md#publication-format-metadata) is ready for publication.
 
 The second checkbox, which says "Not Available", is for approving the publication format for display to readers. Once this checkbox is toggled, any approved files will be shown to the user.
 
