@@ -23,7 +23,7 @@ When you're ready to display a submission in your catalog, visit **Catalog Entry
 
 Once you've [added publication formats](editorial-workflow/production.md), you'll see new tabs for each format which will allow you to enter format-specific metadata.
 
-### Editorial History
+### <a name="editorial-history"></a>Editorial History
 
 Add notes for record-keeping and view a log of all events associated with this submission. Only editorial and administrative staff have access to the Editorial History.
 
@@ -31,7 +31,7 @@ Add notes for record-keeping and view a log of all events associated with this s
 
 A quick-access repository for any files that you'd like to track along with the submission. This is useful for files that aren't specific to any stage, such as signed contracts, marketing files or guidelines you'd like to share with copyeditors or other assistants.
 
-You can quickly add files from your [Press Library](settings/workflow.md#press-library) by clicking on **View Document Library**.
+You can quickly add files from your [Press Library](settings.md#workflow-press-library) by clicking on **View Document Library**.
 
 ## <a name="participants"></a>Participants
 
