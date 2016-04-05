@@ -1,7 +1,5 @@
 # Tasks
 
-Tasks provide a quick reference for automatic updates and to identify outstanding assignments.
+Tasks provide quick access to updates and outstanding responsibilities within the editorial workflow.
 
-New tasks are in bold font, read tasks are in normal font.
-
-Tasks can be deleted once they are no longer useful.
+You can click the Tasks link on the main navigation menu to view any pending tasks. You can delete Tasks when they are no longer useful.
