@@ -13,7 +13,7 @@
 * [Catalog](catalog.md)
 * [Tasks](tasks.md)
 * [Settings](settings.md)
+* [Users and Roles](users_and_roles.md)
 * [Tools](tools.md)
 * [Administration](administration.md)
-* [Users and Roles](users_and_roles.md)
 
