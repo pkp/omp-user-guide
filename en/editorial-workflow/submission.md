@@ -1,7 +1,7 @@
 # Submission Stage
 
 1. Introduction
-2. [Editorial Actions](submission.md#editorial-actions)
+2. [Editorial Actions](submission#editorial-actions)
 
 During the Submission stage, the editor checks the submission files to decide whether it should begin the peer review process.
 
@@ -11,15 +11,15 @@ The editor can assign a sub-editor to assist by using the **Participants** panel
 
 ### Send to Internal Review
 
-Send the submission on to the [Internal Review stage](review.md), where it will be reviewed by other editors.
+Send the submission on to the [Internal Review stage](review), where it will be reviewed by other editors.
 
 ### Send to External Review
 
-Send the submission on to the [External Review stage](review.md) if you'd like to skip an Internal Review and move straight to peer review.
+Send the submission on to the [External Review stage](review) if you'd like to skip an Internal Review and move straight to peer review.
 
 ### Send to Copyediting
 
-Send the submission forward to the [Copyediting stage](copyediting.md) if you'd like to skip the peer review process completely.
+Send the submission forward to the [Copyediting stage](copyediting) if you'd like to skip the peer review process completely.
 
 ### Decline Submission
 

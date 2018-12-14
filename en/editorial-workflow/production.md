@@ -1,9 +1,9 @@
 # Production
 
 1. Introduction
-2. [Orientation](production.md#orientation)
-3. [Understanding Publication Formats](production.md#understanding-publication-formats)
-3. [Publishing the Submission](production.md#publish)
+2. [Orientation](production#orientation)
+3. [Understanding Publication Formats](production#understanding-publication-formats)
+3. [Publishing the Submission](production#publish)
 
 During the Production stage, the editor assigns production assistants who will help prepare the final publication files.
 
@@ -15,7 +15,7 @@ The Production stage provides three panels to create files ready for publication
 
 ### <a name="production-ready"></a>Production Ready Files
 
-All files selected by the editor for production will appear here. These typically include files that have been prepared during the [Copyediting stage](copyediting.md). Production assistants will use these files to generate the final publication formats.
+All files selected by the editor for production will appear here. These typically include files that have been prepared during the [Copyediting stage](copyediting). Production assistants will use these files to generate the final publication formats.
 
 ### <a name="production-discussions"></a>Production Discussions
 
@@ -23,13 +23,13 @@ Editors and production assistants can use this panel to initiate conversations, 
 
 ### <a name="publication-formats"></a>Publication Formats
 
-Editors and production assistants can create publication formats and upload files to each format. Learn more about [publication formats](production.md#understanding-publication-formats).
+Editors and production assistants can create publication formats and upload files to each format. Learn more about [publication formats](production#understanding-publication-formats).
 
-Once publication formats have been created and files have been uploaded, you can begin the approval process to [publish the submission](production.md#publish).
+Once publication formats have been created and files have been uploaded, you can begin the approval process to [publish the submission](production#publish).
 
 ### <a name="participants"></a>Participants
 
-Editors can add copyeditors from this panel. [Learn more](../editorial-workflow.md#participants).
+Editors can add copyeditors from this panel. [Learn more](../editorial-workflow#participants).
 
 ## <a name="understanding-publication-formats"></a>Understanding Publication Formats
 
@@ -49,7 +49,7 @@ If you publish physical volumes alongside your digital offering, you can create 
 
 Each publication format has it's own set of metadata, including DOIs, to comply with indexing services like Google Scholar. You're encouraged to complete the metadata relevant to your needs.
 
-Once you've created a publication format, you'll find a new tab in the [Catalog Entry](../editorial-workflow.md#catalog-entry) panel. To access this panel, look above the stages in the editorial workflow and find the submission title and author.
+Once you've created a publication format, you'll find a new tab in the [Catalog Entry](../editorial-workflow#catalog-entry) panel. To access this panel, look above the stages in the editorial workflow and find the submission title and author.
 
 Click the **Catalog Entry** link in this area and you'll find a tab for each of your publication formats.
 
@@ -71,7 +71,7 @@ To add an entry, go to the **Catalog Entry > Catalog** panel and check the box l
 
 Each publication format will have a two-step approval process.
 
-The first checkbox, which says "Awaiting Approval", is for editors to sign off when the [publication format's metadata](production.md#publication-format-metadata) is ready for publication.
+The first checkbox, which says "Awaiting Approval", is for editors to sign off when the [publication format's metadata](production#publication-format-metadata) is ready for publication.
 
 The second checkbox, which says "Not Available", is for approving the publication format for display to readers. Once this checkbox is toggled, any approved files will be shown to the user.
 

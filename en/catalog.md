@@ -1,10 +1,10 @@
 # Catalog
 
 1. Introduction
-2. [Create a new catalog entry](catalog.md#new-catalog-entry)
-3. [Select Featured and New Release entries](catalog.md#features)
-4. [Manage Categories and Series](catalog.md#categories-and-series)
-5. [Manage Spotlights](catalog.md#spotlights)
+2. [Create a new catalog entry](catalog#new-catalog-entry)
+3. [Select Featured and New Release entries](catalog#features)
+4. [Manage Categories and Series](catalog#categories-and-series)
+5. [Manage Spotlights](catalog#spotlights)
 
 Manage your press catalog, the public listing of all published content on your site, from this page.
 
@@ -16,9 +16,9 @@ You can create a new catalog entry from an existing submission from the **Catalo
 
 Click the **New Catalog Entry** link above the list of existing catalog entries. Select the submission you'd like to add and you'll be presented with the tabs for the entry details.
 
-These tabs are the same as those you'll see under the [Catalog Entry](editorial-workflow.md#catalog-entry) modal in the Editorial Workflow.
+These tabs are the same as those you'll see under the [Catalog Entry](editorial-workflow#catalog-entry) modal in the Editorial Workflow.
 
-Visit the help section for the [Catalog Entry](editorial-workflow.md#catalog-entry) to learn more, including how to list the entry in your catalog.
+Visit the help section for the [Catalog Entry](editorial-workflow#catalog-entry) to learn more, including how to list the entry in your catalog.
 
 ## <a name="features"></a>Select Featured and New Release entries
 

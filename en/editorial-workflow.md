@@ -1,13 +1,13 @@
 # Editorial Workflow
 
 1. Introduction
-2. [Managing Submission Details](editorial-workflow.md#manage-submission-details)
-3. [Participants](editorial-workflow.md#participants)
-4. [Editorial Actions](editorial-workflow.md#editorial-actions)
+2. [Managing Submission Details](editorial-workflow#manage-submission-details)
+3. [Participants](editorial-workflow#participants)
+4. [Editorial Actions](editorial-workflow#editorial-actions)
 
 The editorial workflow allows you to usher a submission from initial evaluation through peer review, copyediting and production, where the item is prepared for publication.
 
-Each tab on the workflow page provides you with the information, tools and discussion panels you'll need to complete the tasks for that stage. You can [add participants](editorial-workflow.md#participants) to help you. And when your ready, you'll be presented with a range of [editorial actions](editorial-workflow.md#editorial-actions) appropriate to each stage.
+Each tab on the workflow page provides you with the information, tools and discussion panels you'll need to complete the tasks for that stage. You can [add participants](editorial-workflow#participants) to help you. And when your ready, you'll be presented with a range of [editorial actions](editorial-workflow#editorial-actions) appropriate to each stage.
 
 ## <a name="manage-submission-details"></a>Managing Submission Details
 
@@ -21,7 +21,7 @@ The **Monograph** tab covers the metadata that is used for indexing your content
 
 When you're ready to display a submission in your catalog, visit **Catalog Entry > Catalog** and check the box labeled *Add this book to the public catalog*.
 
-Once you've [added publication formats](editorial-workflow/production.md), you'll see new tabs for each format which will allow you to enter format-specific metadata.
+Once you've [added publication formats](editorial-workflow/production), you'll see new tabs for each format which will allow you to enter format-specific metadata.
 
 ### <a name="editorial-history"></a>Editorial History
 
@@ -31,7 +31,7 @@ Add notes for record-keeping and view a log of all events associated with this s
 
 A quick-access repository for any files that you'd like to track along with the submission. This is useful for files that aren't specific to any stage, such as signed contracts, marketing files or guidelines you'd like to share with copyeditors or other assistants.
 
-You can quickly add files from your [Press Library](settings.md#workflow-press-library) by clicking on **View Document Library**.
+You can quickly add files from your [Press Library](settings#workflow-press-library) by clicking on **View Document Library**.
 
 ## <a name="participants"></a>Participants
 
@@ -39,7 +39,7 @@ On the right of each stage of the workflow, you'll find a list of users who have
 
 *When you add a user, that user will have access to any stages allowed by their user role*. For example, an Editor added to the Participants grid will have access to every stage. But a Copyeditor will only have access to the Copyediting stage.
 
-*You won't need to add Reviewers to the Participants panel.* Once you get to the [review stages](editorial-workflow/review.md), you'll be able to manage the reviewers in a more convenient panel.
+*You won't need to add Reviewers to the Participants panel.* Once you get to the [review stages](editorial-workflow/review), you'll be able to manage the reviewers in a more convenient panel.
 
 ## <a name="editorial-actions"></a> Editorial Actions
 
