@@ -1,8 +1,8 @@
 # Authoring
 
 1. Introduction
-2. [Make a Submission](authoring.md#make-submission)
-3. [Track your Submission](authoring.md#track-submission)
+2. [Make a Submission](authoring#make-submission)
+3. [Track your Submission](authoring#track-submission)
 
 This chapter will help authors make a new submission and participate in the editorial workflow as it is reviewed, edited and eventually published.
 
@@ -46,7 +46,7 @@ You've done it! If you want to read more about tracking your submission, read th
 
 ## <a name="track-submission"></a>Track your Submission
 
-When your submission is under consideration, you can keep an eye on it's status by logging into the website and going to the [Submissions](submissions.md) page.
+When your submission is under consideration, you can keep an eye on it's status by logging into the website and going to the [Submissions](submissions) page.
 
 Here you'll find you submissions listed with the current stage of the editorial workflow it is in. Click the stage name to interact with that stage.
 

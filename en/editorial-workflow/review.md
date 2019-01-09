@@ -1,9 +1,9 @@
 # Review Stages
 
 1. Introduction
-2. [Internal or External Review?](review.md#internal-or-external)
-3. [Orientation](review.md#orientation)
-4. [Editorial Actions](review.md#editorial-actions)
+2. [Internal or External Review?](review#internal-or-external)
+3. [Orientation](review#orientation)
+4. [Editorial Actions](review#editorial-actions)
 
 During the Internal and External Review stages, the editor can facilitate the review process by selecting and assigning reviewers to the submission.
 
@@ -34,7 +34,7 @@ Editors and sub-editors can initiate private conversations among themselves or w
 The review discussions are not particular to any one round and will carry over to subsequent rounds if a new review round is initiated.
 
 ### <a name="participants"></a>Participants
-Editors and sub-editors can add additional users to this stage to assist them in managing the review process. This is commonly used by an editor who wants a sub-editor to handle the day-to-day communications with reviewers. [Learn more](../editorial-workflow.md#participants).
+Editors and sub-editors can add additional users to this stage to assist them in managing the review process. This is commonly used by an editor who wants a sub-editor to handle the day-to-day communications with reviewers. [Learn more](../editorial-workflow#participants).
 
 ## <a name="editorial-actions"></a>Editorial Actions
 The editor can make one of several editorial actions during each round of the review stage. Each of these decisions automatically notifies the author by email.
@@ -49,7 +49,7 @@ The editor can request revisions from the author which will need to go through a
 The editor can intiate the External Review stage once it has passed internal review. *This is only available on the Internal Review stage.*
 
 ### <a name="copyediting"></a>Send to Copyediting
-The editor can initiate the [Copyediting stage](copyediting.md) once it has passed any required review stages.
+The editor can initiate the [Copyediting stage](copyediting) once it has passed any required review stages.
 
 ### <a name="decline"></a>Decline Submission
 The editor can decline the submission if it does not pass review. The submission will be removed from the editorial workflow and sent to the Archives.
