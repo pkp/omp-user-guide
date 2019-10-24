@@ -100,9 +100,9 @@ OMP sends a number of emails during various stages of the [Editorial Workflow](e
 
 The settings in this section allow you to tailor the common header and signature that accompany those emails, as well as update the email defaults for each type of email that's sent out.
 
-If you're unsure what a particular email is for, spin out it's context menu by clicking the toggle to the left of the email, and then click **Edit Email**. Most emails include a short description of when they're sent.
+You can view more about one of the emails in the list by clicking the dropdown arrow on the right.
 
-*If you want to restore an email template to it's default, use the __Reset__ link to restore defaults.*
+*If you want to restore an email template to it's default, use the __Reset__ button to restore the default message. This button is only available for email templates that have been modified.*
 
 ## <a name="distribution"></a>Distribution
 
