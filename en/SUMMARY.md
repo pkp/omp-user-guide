@@ -12,7 +12,11 @@
    * [Production](editorial-workflow/production)
 * [Catalog](catalog)
 * [Tasks](tasks)
-* [Settings](settings)
-* [Users and Roles](users_and_roles)
+* Settings
+  * [Press](settings/context-settings)
+  * [Website](settings/website-settings)
+  * [Workflow](settings/workflow-settings)
+  * [Distribution](settings/distribution-settings)
+* [Users and Roles](users-and-roles)
 * [Tools](tools)
 * [Administration](administration)

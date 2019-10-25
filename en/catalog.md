@@ -14,11 +14,7 @@ You can edit existing monographs, list new monographs in your catalog, manage ca
 
 You can create a new catalog entry from an existing submission from the **Catalog** tab.
 
-Click the **New Catalog Entry** link above the list of existing catalog entries. Select the submission you'd like to add and you'll be presented with the tabs for the entry details.
-
-These tabs are the same as those you'll see under the [Catalog Entry](editorial-workflow#catalog-entry) modal in the Editorial Workflow.
-
-Visit the help section for the [Catalog Entry](editorial-workflow#catalog-entry) to learn more, including how to list the entry in your catalog.
+Click the **New Catalog Entry** button above the list of existing catalog entries. Select the submission you'd like to add and click the **Add Selected to Catalog** button.
 
 ## <a name="features"></a>Select Featured and New Release entries
 
@@ -32,11 +28,7 @@ _Features and New Releases can be highlighted on the Category and Series pages o
 
 ## <a name="categories-and-series"></a>Manage Categories and Series
 
-You can add new categories or series, edit existing categories or series, and manage the entries in each category or series from the **Categories** or **Series** tabs.
-
-To view all entries in a category or series, select that category or series from the list on the left.
-
-To add or edit categories or series, click the **Manage Categories** or **Manage Series** link above the list.
+To view all entries in a category or series, select that category or series from the list on the left. You can then select featured and new release entries for this category or series.
 
 ### What's the difference between Categories and Series?
 
@@ -48,4 +40,4 @@ Categories represent a more generic way of organizing your catalog. They're ofte
 
 You can select a few books to be displayed prominently on the homepage along with a custom title and description.
 
-This is useful when you want to promote a book with marketing language that goes beyond the book's title and abstract, such as highlighting praise a publication has received. 
+This is useful when you want to promote a book with marketing language that goes beyond the book's title and abstract, such as highlighting praise a publication has received.
