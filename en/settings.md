@@ -62,13 +62,7 @@ Set all of your review policies and procedures, including deadlines, notificatio
 
 ### <a name="workflow-review-mode"></a>Default Review Mode
 
-Choose the review mode that should be used by default.
-
-- A **Double-Blind** review will prevent the reviewer and the author from knowing each other's identities.
-- A **Blind** review will prevent the author from knowing the reviewer's identity.
-- An **Open** review will allow the reviewer and author to know each other's identities.
-
-An editor will be able to choose another type when needed, but will usually use the default.
+Choose the review mode that should be used by default. An editor will be able to choose another type when needed, but will usually use the default.
 
 ### <a name="workflow-review-file-access"></a>Restrict File Access
 
