@@ -1,9 +1,9 @@
 # Users and Roles
 
-1. Introduction
-2. [Users](users-and-roles#users-users)
-3. [Roles](users-and-roles#users-roles)
-4. [Site Access](users-and-roles#users-site-access)
+1. [Users](users-and-roles#users)
+2. [Roles](users-and-roles#roles)
+3. [Notify](users-and-roles#notify)
+4. [Site Access](users-and-roles#site-access)
 
 Manager your press's users, assign them to roles and create or edit existing roles.
 
@@ -32,6 +32,10 @@ You can edit or remove existing roles, or add new roles. All roles are given one
 - *Series Editors* and *Press Assistants* can access only those parts of the [Editorial Workflow](editorial-workflow) assigned to their role (see below).
 
 In addition to the permission levels, you can restrict some roles to particular stages of the [Editorial Workflow](editorial-workflow). This is useful for professional assistants such as copyeditors or layout managers who may assist during one or two stages of the workflow.
+
+## <a name="notify"></a> Notify
+
+If an Administrator has enabled the bulk emails feature, you will see a Notify tab. You can use this tab to email all users in a role.
 
 ## <a name="site-access"></a> Site Access Options
 

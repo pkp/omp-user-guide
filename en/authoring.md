@@ -22,13 +22,11 @@ Provide initial information and confirm that you've followed the requirements be
 
 ### <a name="upload"></a>Upload
 
-Upload your submission files. Each file needs to be assigned a particular component, which helps organize the files for large projects.
+You can upload one or more files with your submission. Select multiple files to upload more than one file at a time or upload each file individually.
 
-You'll upload each of your files one at a time, naming each one before moving onto the next file. If you have chapter-specific files, rather than one large manuscript, you can hold onto those files for now. You'll have an opportunity later to upload them and associate them with each chapter.
+Each file needs to be identified as a particular component type. The type options will vary depending on what has been defined by the journal, but they could include article text, data sets, research results, or images.
 
- You can go back at any time during the submission to add more files, and you'll have a separate opportunity to upload chapter-specific files if you have separate
-
-*When asked to name the file, it's recommended that you do not include your name. Otherwise, editors will have to strip this out before sharing it with reviewers.*
+Select Save and Continue to move to the next step.
 
 ### <a name="catalog"></a>Catalog
 

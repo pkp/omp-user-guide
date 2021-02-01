@@ -11,6 +11,9 @@ Configure all aspects of the [Editorial Workflow](../editorial-workflow), includ
 
 Set submission requirements, provide author guidelines, configure your submission file types and more.
 
+### Disable Submissions
+If you want to disable submissions for the whole journal you can check the box here. Or to disable submissions in a specific series, click the **Press series** link.
+
 ### Metadata
 
 Decide which types of metadata, such as keywords and references, your press will support.
@@ -74,5 +77,7 @@ OMP sends a number of emails during various stages of the [Editorial Workflow](e
 The settings in this section allow you to tailor the common header and signature that accompany those emails, as well as update the email defaults for each type of email that's sent out.
 
 You can view more about one of the emails in the list by clicking the dropdown arrow on the right.
+
+Click **Filters** to filter templates by sender, recipient, workflow stage, and whether the template is enabled.
 
 *If you want to restore an email template to it's default, use the __Reset__ button to restore the default message. This button is only available for email templates that have been modified.*
