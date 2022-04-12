@@ -1,4 +1,4 @@
-#OMP 3.3 User Guide
+# OMP 3.3 User Guide
 
 This guide will help you publish monographs, books and edited volumes with Open Monograph Press.
 
