@@ -21,7 +21,7 @@ You can see if you've been assigned any reviews by going to the [Submissions](su
 
 ### <a name="complete-review-request"></a>Request
 
-The first step requests that you accept or declin the request to perform a review. You'll find the relevant submission details as well as **due dates** for responding to the request and submitting your review.
+The first step requests that you accept or decline the request to perform a review. You'll find the relevant submission details as well as **due dates** for responding to the request and submitting your review.
 
 ### <a name="complete-review-guidelines"></a>Guidelines
 
